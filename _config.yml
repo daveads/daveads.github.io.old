@@ -36,6 +36,9 @@ url: "https://daveads.github.io" # the base hostname & protocol for your site
 
 css_class: 'highlight'
 
+google_analytics: UA-150099529-1
+
+disqus:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
