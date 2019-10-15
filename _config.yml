@@ -22,7 +22,9 @@ title: Daveads
 email: the.daveads@gmail.com
 description: Computer Science write up by "Adejumo David Adewale"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+url: https://daveads.github.io
+
 twitter_username: The_Daveads
 github_username:  Daveads
 
@@ -32,7 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-url: "https://daveads.github.io" # the base hostname & protocol for your site
+url: https://daveads.github.io # the base hostname & protocol for your site
 
 css_class: 'highlight'
 
