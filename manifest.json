@@ -1,18 +1,18 @@
 {
-  "lang": "en",
-  "dir": "ltr\rtl",
-  "name": "This is my jekyll PWA",
-  "short_name": "Daveads",
-  "icons": [
-    {
-      "src": "\/images\/jekyll-logo.png",
-      "sizes": "192x192",
-      "type": "image\/png"
-    }
-  ],
-  "theme_color": "#1a1a1a",
-  "background_color": "#1a1a1a",
-  "start_url": "/",
-  "display": "standalone",
-  "orientation": "natural"
+    "name" : "Daveads",
+    "short_name" : "Cs with Daveads",
+    "theme_color" : "#ffffff",
+    "background_color" : "#ffffff",
+    "display" : "standalone",
+    "start_url" : "https://daveads.github.io",
+    "lang" : "english",
+    "orientation" : "natural",
+    "generated" : "undefined",
+    "icons": [
+        {
+            "src": "/image/daveads.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
 }
