@@ -23,7 +23,7 @@ email: the.daveads@gmail.com
 description: Computer Science write up by "Adejumo David Adewale"
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: https://daveads.github.io
+url: "https://daveads.github.io"
 
 twitter_username: The_Daveads
 github_username:  Daveads
@@ -39,6 +39,15 @@ url: https://daveads.github.io # the base hostname & protocol for your site
 css_class: 'highlight'
 
 google_analytics: UA-150099529-1
+
+-----------------------------------
+lang_direction: "ltr"
+
+color: "#abe123"
+
+language: "en"
+
+-----------------------------------
 
 disqus:
 
