@@ -16,7 +16,25 @@
 {"url":"http://localhost:4000/about.html","headline":"About","description":"Computer Science write up by “Adejumo David Adewale”","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
-  <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Daveads" /></head>
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="manifest" href="manifest.json"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Daveads" /><script>
+	if ("serviceWorker" in navigator) {
+  if (navigator.serviceWorker.controller) {
+    console.log("An active service worker found, no need to register");
+  } else {
+    // Register the service worker
+    navigator.serviceWorker
+      .register("/serviceworker.js", {
+        scope: "./"
+      })
+      .then(function (reg) {
+        console.log("Service worker has been registered for scope: " + reg.scope);
+      });
+  }
+}
+</script>
+
+</head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Daveads</a><nav class="site-nav">
