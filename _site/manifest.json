@@ -1,11 +1,11 @@
 {
   "lang": "en",
   "dir": "ltr\rtl",
-  "name": "This is my jekyll PWA",
+  "name": "Computer science with Daveads",
   "short_name": "Daveads",
   "icons": [
     {
-      "src": "\/images\/jekyll-logo.png",
+      "src": "\/images\/daveads.png",
       "sizes": "192x192",
       "type": "image\/png"
     }
