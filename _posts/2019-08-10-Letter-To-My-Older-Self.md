@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 'A Letter to my Older self'
+title: 'Letter to my Older self'
 date: 2019-08-10
-categories: A-letter-to-My-Older-Self
 ---
 
 ### Don't read this you will not understand this 

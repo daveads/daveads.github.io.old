@@ -2,7 +2,6 @@
 layout: post
 title: 'Computer Science Resources'
 date: 2019-07-07
-categories: Computer-Science
 ---
 
 >I love this particual line made by Alan kay 

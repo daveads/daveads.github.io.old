@@ -1,17 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-23T23:17:56-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Computer Science write up by &quot;Adejumo David Adewale&quot;</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/10/15/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-10-15T01:35:21-04:00</published><updated>2019-10-15T01:35:21-04:00</updated><id>http://localhost:4000/jekyll/update/2019/10/15/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/10/15/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-14T09:50:31-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Computer Science write up by &quot;Adejumo David Adewale&quot;</subtitle><entry><title type="html">Letter to my Older self</title><link href="http://localhost:4000/2019/08/10/Letter-To-My-Older-Self.html" rel="alternate" type="text/html" title="Letter to my Older self" /><published>2019-08-10T00:00:00-04:00</published><updated>2019-08-10T00:00:00-04:00</updated><id>http://localhost:4000/2019/08/10/Letter-To-My-Older-Self</id><content type="html" xml:base="http://localhost:4000/2019/08/10/Letter-To-My-Older-Self.html">&lt;h3 id=&quot;dont-read-this-you-will-not-understand-this&quot;&gt;Don’t read this you will not understand this&lt;/h3&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;p&gt;I think it important to write this up as a letter or reminder to my self&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;(1) &lt;strong&gt;Don’t Ever give up.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;(2) &lt;strong&gt;Always remember your goals.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;(3) &lt;strong&gt;You don’t need to know everything but you can #cs_math.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;(4) &lt;strong&gt;read alot of books &amp;amp;&amp;amp; read wide.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;(5) &lt;strong&gt;learn to read scientific papper &amp;amp;&amp;amp; also contribute.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(6) &lt;strong&gt;Code Every day.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(7) &lt;strong&gt;learn no to give a fuck about what people say or think when they don’t actually know where you are headed.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(8) &lt;strong&gt;languages are just tools.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(9) &lt;strong&gt;Be your self.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(10) &lt;strong&gt;Don’t be a perfectionist. // i think i am already&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(11) &lt;strong&gt;Remember you are awesome &amp;amp;&amp;amp; special.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(12) &lt;strong&gt;listen to what everyone process it and see which is useful to 	   you.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(13) &lt;strong&gt;i know you are already curious i don’t have to tell you to be.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(14) &lt;strong&gt;Remember the WORD.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(15) &lt;strong&gt;pratice,pratice,pratice&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(16) &lt;strong&gt;it “OK” not to follow the crowd don’t feel left out&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AlWAYS CHECK THIS OUT (LOOP_THIS IF POSSIBLE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.entrepreneur.com/article/253737&quot;&gt;The Gift of Obsession&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.entrepreneur.com/article/244198&quot;&gt;A True Goal Needs to Become an Obsession&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Don’t read this you will not understand this</summary></entry><entry><title type="html">Computer Science Resources</title><link href="http://localhost:4000/2019/07/07/Computer-Science-Resources.html" rel="alternate" type="text/html" title="Computer Science Resources" /><published>2019-07-07T00:00:00-04:00</published><updated>2019-07-07T00:00:00-04:00</updated><id>http://localhost:4000/2019/07/07/Computer-Science-Resources</id><content type="html" xml:base="http://localhost:4000/2019/07/07/Computer-Science-Resources.html">&lt;blockquote&gt;
+  &lt;p&gt;I love this particual line made by Alan kay 
+&lt;cite&gt;At some age you need to take responsibility for your own education&lt;/cite&gt;&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;cs-resources--important-articles&quot;&gt;CS Resources &amp;amp;&amp;amp; important articles&lt;/h3&gt;
+
+&lt;h2 id=&quot;cs-curriculum&quot;&gt;CS Curriculum&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/&quot;&gt;MIT OPEN COURSE WARE EE &amp;amp; CS courses&lt;/a&gt;  6-2&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/&quot;&gt;For a more direct Cs majors&lt;/a&gt; chart 6-3&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/ossu/computer-science&quot;&gt;Open Source Society University&lt;/a&gt; self-taught education in Computer Science&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://functionalcs.github.io/curriculum/&quot;&gt;A Self-Learning, Modern Computer Science Curriculum&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/mvillaloboz/open-source-cs-degree&quot;&gt;open-source-cs-degree&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;others&quot;&gt;OTHERS&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/mathematics/&quot;&gt;Mit math courses&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/physics/&quot;&gt;Mit physcis Courses&lt;/a&gt; You can also take some courses that interest you right here.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.edx.org/&quot;&gt;Edx&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/&quot;&gt;Coursera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://matt.might.net/articles/what-cs-majors-should-know/&quot;&gt;What CS Major Should Know&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/mtdvio/every-programmer-should-know&quot;&gt;Every Programmer Should Know&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/datasciencemasters/go&quot;&gt;The Open Source Date Science masters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/humanwhocodes/computer-science-in-javascript&quot;&gt;computer science in javascript&lt;/a&gt; Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nand2tetris.org/&quot;&gt;Nand to Tetris&lt;/a&gt; Building a Modern Computer From First Principles&lt;/p&gt;
+
+&lt;h2 id=&quot;cs-coursers&quot;&gt;CS COURSERS&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Developer-Y/cs-video-courses&quot;&gt;List of Computer Science courses with video lectures&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/P1xt/p1xt-guides&quot;&gt;Programming curricula&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/prakhar1989/awesome-courses&quot;&gt;Awesome CS Courses&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;##Alogrithms&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/keon/algorithms&quot;&gt;algorithms&lt;/a&gt; algorithms using python&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/mandliya/algorithms_and_data_structures&quot;&gt;algorithms and data structures&lt;/a&gt; Algorithm &amp;amp; Data Structure Problems using C++&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/TheAlgorithms/C-Plus-Plus&quot;&gt;all algorithms implemented in c++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jeffgerickson/algorithms&quot;&gt;Algorithms by Jeff Erickson&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This article should be as important also&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://norvig.com/21-days.html&quot;&gt;Teach Yourself Programming in Ten Years&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I love this particual line made by Alan kay At some age you need to take responsibility for your own education</summary></entry></feed>
