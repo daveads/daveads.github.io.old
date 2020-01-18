@@ -1,0 +1,13 @@
+I" <h3 id="understanding-indentation-in-python">Understanding indentation in python</h3>
+
+<p>##so what is indentation:</p>
+
+<p>According to <a href="https://en.wikipedia.org/wiki/Indentation_(typesetting)">wikipedia - indentation</a> indent is an empty space at the beginning of a line to signal the start of a new paragraph.</p>
+
+<p><img src="/images/indent.png" alt="indent" /></p>
+
+<p>In some programming language e.g python indentation expresses how a control structure should behave. making changes to the indentation changes the codeâ€™s behavior.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>dfdafd
+</code></pre></div></div>
+:ET

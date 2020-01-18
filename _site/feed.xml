@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-14T09:50:31-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Computer Science write up by &quot;Adejumo David Adewale&quot;</subtitle><entry><title type="html">Letter to my Older self</title><link href="http://localhost:4000/2019/08/10/Letter-To-My-Older-Self.html" rel="alternate" type="text/html" title="Letter to my Older self" /><published>2019-08-10T00:00:00-04:00</published><updated>2019-08-10T00:00:00-04:00</updated><id>http://localhost:4000/2019/08/10/Letter-To-My-Older-Self</id><content type="html" xml:base="http://localhost:4000/2019/08/10/Letter-To-My-Older-Self.html">&lt;h3 id=&quot;dont-read-this-you-will-not-understand-this&quot;&gt;Don’t read this you will not understand this&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-17T02:14:00-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Computer Science write up by &quot;Adejumo David Adewale&quot;</subtitle><entry><title type="html">Indentation in Python</title><link href="http://localhost:4000/2020/01/17/indentation-in-python.html" rel="alternate" type="text/html" title="Indentation in Python" /><published>2020-01-17T00:00:00-05:00</published><updated>2020-01-17T00:00:00-05:00</updated><id>http://localhost:4000/2020/01/17/indentation-in-python</id><content type="html" xml:base="http://localhost:4000/2020/01/17/indentation-in-python.html">&lt;h2 id=&quot;what-is-indentation&quot;&gt;what is indentation:&lt;/h2&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;https://en.wikipedia.org/wiki/Indentation_(typesetting)&quot;&gt;wikipedia - indentation&lt;/a&gt; indent is an empty space at the beginning of a line to signal the start of a new paragraph.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/indent.png&quot; alt=&quot;indent&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In some programming language e.g python indentation expresses how a control structure should behave, making changes to the indentation changes the code’s behavior, python uses indentation to indicate a block of code (a group of statement)&lt;/p&gt;
+
+&lt;p&gt;Examples&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; if 5 &amp;gt; 2:
+    print(&quot;five is greater than two!&quot;)   	
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; name = &quot;David&quot;
+ 
+ if len(name) &amp;gt; 0:
+     message = 'name is not empty'
+     print(message)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;python version used : python 3.7.3&lt;/p&gt;</content><author><name></name></author><summary type="html">what is indentation:</summary></entry><entry><title type="html">Letter to my Older self</title><link href="http://localhost:4000/2019/08/10/Letter-To-My-Older-Self.html" rel="alternate" type="text/html" title="Letter to my Older self" /><published>2019-08-10T00:00:00-04:00</published><updated>2019-08-10T00:00:00-04:00</updated><id>http://localhost:4000/2019/08/10/Letter-To-My-Older-Self</id><content type="html" xml:base="http://localhost:4000/2019/08/10/Letter-To-My-Older-Self.html">&lt;h3 id=&quot;dont-read-this-you-will-not-understand-this&quot;&gt;Don’t read this you will not understand this&lt;/h3&gt;
 
 &lt;p&gt;I think it important to write this up as a letter or reminder to my self&lt;/p&gt;
 

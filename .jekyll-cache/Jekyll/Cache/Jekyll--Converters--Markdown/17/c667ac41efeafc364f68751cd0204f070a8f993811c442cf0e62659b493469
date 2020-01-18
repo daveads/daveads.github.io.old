@@ -1,7 +1,21 @@
-I"…<div class="posts">
+I"à<div class="posts">
 
 
-	<h3>COMPUTER SCIENCE</h3>
+	<h3>Welcome to Daveads landing page</h3>
+  
+	
+    <article class="post">
+
+      <h1><a href="/2020/01/17/indentation-in-python.html">indentation in python</a></h1>
+
+      <div class="entry">
+        <h2 id="what-is-indentation">what is indentation:</h2>
+
+      </div>
+
+      <a href="/2020/01/17/indentation-in-python.html" class="read-more">Read More</a>
+    </article>
+	
   
 	
     <article class="post">

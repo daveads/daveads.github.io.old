@@ -9,7 +9,7 @@ title: home
 <div class="posts">
 
 
-	<h3>COMPUTER SCIENCE</h3>
+	<h3>Welcome to Daveads landing page</h3>
   {% for post in site.posts %}
 	
     <article class="post">
