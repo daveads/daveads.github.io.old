@@ -20,13 +20,15 @@ q# If you need help with YAML syntax, here are some quick references for you:
 
 title: Daveads
 email: the.daveads@gmail.com
-description: Computer Science write up by "Adejumo David Adewale"
+description: Daveads personal site
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://daveads.github.io"
 
 twitter_username: The_Daveads
 github_username:  Daveads
+
+logo: "/images/daveads.png"
 
 # Build settings
 theme: minima
@@ -57,14 +59,14 @@ disqus:
 # their entries' file path in the `include:` list.
 #
 
-exclude:
-   - .sass-cache/
-   - .jekyll-cache/
-   - gemfiles/
-   - Gemfile
-   - Gemfile.lock
-   - node_modules/
-   - vendor/bundle/
-   - vendor/cache/
-   - vendor/gems/
-   - vendor/ruby/
+#exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
