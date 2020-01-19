@@ -41,6 +41,8 @@ I think it important to write this up as a letter or reminder to my self
 
 (16) **it "OK" not to follow the crowd don't feel left out**
 
+(17) **RESPECT YOUR PARENT**
+
 **AlWAYS CHECK THIS OUT (LOOP_THIS IF POSSIBLE**
 
 [The Gift of Obsession](https://www.entrepreneur.com/article/253737)

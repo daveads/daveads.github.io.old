@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-18T11:24:54-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Computer Science write up by &quot;Adejumo David Adewale&quot;</subtitle><entry><title type="html">Indentation in Python</title><link href="http://localhost:4000/2020/01/17/indentation-in-python.html" rel="alternate" type="text/html" title="Indentation in Python" /><published>2020-01-17T00:00:00-05:00</published><updated>2020-01-17T00:00:00-05:00</updated><id>http://localhost:4000/2020/01/17/indentation-in-python</id><content type="html" xml:base="http://localhost:4000/2020/01/17/indentation-in-python.html">&lt;h2 id=&quot;what-is-indentation&quot;&gt;what is indentation:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-18T22:10:54-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry><title type="html">Indentation in Python</title><link href="http://localhost:4000/2020/01/17/indentation-in-python.html" rel="alternate" type="text/html" title="Indentation in Python" /><published>2020-01-17T00:00:00-05:00</published><updated>2020-01-17T00:00:00-05:00</updated><id>http://localhost:4000/2020/01/17/indentation-in-python</id><content type="html" xml:base="http://localhost:4000/2020/01/17/indentation-in-python.html">&lt;h2 id=&quot;what-is-indentation&quot;&gt;what is indentation:&lt;/h2&gt;
 
 &lt;p&gt;According to &lt;a href=&quot;https://en.wikipedia.org/wiki/Indentation_(typesetting)&quot;&gt;wikipedia - indentation&lt;/a&gt; indent is an empty space at the beginning of a line to signal the start of a new paragraph.&lt;/p&gt;
 
@@ -55,6 +55,8 @@
 
 &lt;p&gt;(16) &lt;strong&gt;it “OK” not to follow the crowd don’t feel left out&lt;/strong&gt;&lt;/p&gt;
 
+&lt;p&gt;(17) &lt;strong&gt;RESPECT YOUR PARENT&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;AlWAYS CHECK THIS OUT (LOOP_THIS IF POSSIBLE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.entrepreneur.com/article/253737&quot;&gt;The Gift of Obsession&lt;/a&gt;&lt;/p&gt;
@@ -65,7 +67,7 @@
 
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;cs-resources--important-articles&quot;&gt;CS Resources &amp;amp;&amp;amp; important articles&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;CS Resources &amp;amp;&amp;amp; important articles&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;cs-curriculum&quot;&gt;CS Curriculum&lt;/h2&gt;
 
@@ -106,7 +108,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/prakhar1989/awesome-courses&quot;&gt;Awesome CS Courses&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;##Alogrithms&lt;/p&gt;
+&lt;h2 id=&quot;alogrithms&quot;&gt;Alogrithms&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/keon/algorithms&quot;&gt;algorithms&lt;/a&gt; algorithms using python&lt;/p&gt;
 

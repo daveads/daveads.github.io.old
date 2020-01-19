@@ -9,7 +9,7 @@ date: 2019-07-07
 >
 
 
-### CS Resources && important articles
+**CS Resources && important articles**
 
 
 ## CS Curriculum
@@ -54,7 +54,7 @@ date: 2019-07-07
 [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 
 
-##Alogrithms
+## Alogrithms
 
 [algorithms](https://github.com/keon/algorithms) algorithms using python
 
@@ -63,6 +63,7 @@ date: 2019-07-07
 [all algorithms implemented in c++](https://github.com/TheAlgorithms/C-Plus-Plus)
 
 [Algorithms by Jeff Erickson](https://github.com/jeffgerickson/algorithms)
+
 
 
 **This article should be as important also**

@@ -6,10 +6,16 @@ layout: default
 title: home
 ---
 
+
+Hello there! I'm Daveads, a Computer Programmer..[more](/about.html)
+
+>
+Quote by albert einstein<br>
+<cite>if you can't explain it in simply you don't understand it well enough...</cite>
+
+
+
 <div class="posts">
-
-
-	<h3>Welcome to Daveads landing page</h3>
   {% for post in site.posts %}
 	
     <article class="post">
