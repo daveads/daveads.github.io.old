@@ -21,4 +21,4 @@ My interest are in Computer science, (AI) math and everything the tech community
 OS: Linux<br>
 Code Editor: vim && visual studio code
 
-In the process of making this site an extenstion of my interest
+IN THE PROCESS OF MAKING THIS SITE AN EXTENSTION OF ME **[INTEREST]**
