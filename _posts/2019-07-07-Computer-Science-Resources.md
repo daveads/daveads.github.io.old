@@ -43,6 +43,8 @@ permalink: /computer-science-resources.html
 
 [computer science in javascript](https://github.com/humanwhocodes/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
 
+[Teach yourself computer science](https://teachyourselfcs.com/)
+
 [Nand to Tetris](https://www.nand2tetris.org/) Building a Modern Computer From First Principles
 
 
@@ -67,7 +69,7 @@ permalink: /computer-science-resources.html
 
 
 
-**This article should be as important also**
+**important**
 
 [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
