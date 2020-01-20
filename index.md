@@ -7,7 +7,7 @@ title: home
 ---
 
 
-Hello there! I'm Daveads, a Computer Programmer..[more](/about.html)
+Hello there! I'm Daveads, a Computer Programmer..[Read more](/about.html)
 
 >
 Quote by albert einstein<br>

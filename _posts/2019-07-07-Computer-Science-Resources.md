@@ -2,6 +2,7 @@
 layout: post
 title: 'Computer Science Resources'
 date: 2019-07-07
+permalink: /computer-science-resources.html
 ---
 
 >I love this particual line made by Alan kay 
