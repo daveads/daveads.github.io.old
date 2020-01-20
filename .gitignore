@@ -1,0 +1,25 @@
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
+.rubocop.yml
+.jekyll-cache
+.env
+.ruby-version
+
+# Node
+node_modules
+package.json
+package-lock.json
+
+# Bundler
+Gemfile.lock
+.bundle
+vendor/bundle
+
+# Caddy
+Caddyfile
+
+# OSX
+.DS_Store
+*.swp
