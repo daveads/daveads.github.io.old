@@ -18,4 +18,7 @@ My interest are in Computer science, (AI) math and everything the tech community
 ![feyn](/assets/feynman techn.jpg) 
         *picture source google image*
 
+OS: Linux
+Code Editor: vim && visual studio code
+
 In the process of making this site an extenstion of my interest
