@@ -9,7 +9,7 @@ Hello! I'm **Adejumo David Adewale**, a **computer programmer** or if you would 
 My interest are in Computer science, (AI) math and everything the tech community have to offer... i am naturally curious.**i have the tendency to read anything that has the word computer attached to it**
 
 >
-**Most times i feels the need understand physics for curious reasons _quantum computing_**
+**Most times i feels the need understand physics for curious reasons (Quantum computing)**
 >
 **more of a polyglot programmer, #curious# Generalist**
 
