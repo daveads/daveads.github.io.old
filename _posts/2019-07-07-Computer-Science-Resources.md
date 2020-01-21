@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Computer Science Resources'
+title: 'Computer Science Resources for the curious'
 date: 2019-07-07
 permalink: /computer-science-resources.html
 lang: en
@@ -16,7 +16,7 @@ lang: en
 
 ## CS Curriculum
 
-[MIT OPEN COURSE WARE EE & CS courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)  6-2
+[MIT OPEN COURSE WARE EE & CS courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/) IMP 6-2
 
 [For a more direct Cs majors](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) chart 6-3
  
@@ -26,6 +26,7 @@ lang: en
 
 [open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree)
 
+[What CS Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 ## OTHERS
 [Mit math courses](https://ocw.mit.edu/courses/mathematics/)
@@ -35,8 +36,6 @@ lang: en
 [Edx](https://www.edx.org/)
 
 [Coursera](https://www.coursera.org/)
-
-[What CS Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 
