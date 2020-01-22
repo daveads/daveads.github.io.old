@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Computer Science resources for the curious'
+title: 'Computer Science resources -curious'
 date: 2019-07-07
 permalink: /computer-science-resources.html
 lang: en
