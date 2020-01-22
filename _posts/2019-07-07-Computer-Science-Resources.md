@@ -6,7 +6,7 @@ permalink: /computer-science-resources.html
 lang: en
 ---
 
->I love this particual line made by Alan kay 
+>I love this particual line made by [Alan kay](https://en.wikipedia.org/wiki/Alan_Kay) 
 <cite>At some age you need to take responsibility for your own education</cite>
 >
 
@@ -73,8 +73,9 @@ lang: en
 
 [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
+[Books](books/books-for-programmers-and-cs-majors.html)
 
+*last update 21-01-2020*
 
-*updated 21-01-2020*
 
 
