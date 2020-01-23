@@ -31,7 +31,7 @@ lang: en
 ## OTHERS
 [Mit math courses](https://ocw.mit.edu/courses/mathematics/)
 
-[Mit physcis Courses](https://ocw.mit.edu/courses/physics/) You can also take some courses that interest you right here.
+[Mit physcis Courses](https://ocw.mit.edu/courses/physics/) courses of interest
 
 [Edx](https://www.edx.org/)
 
@@ -73,7 +73,7 @@ lang: en
 
 [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
-[Books](books/books-for-programmers-and-cs-majors.html)
+[Books](/books/books-i-find-interesting.html)
 
 *last update 21-01-2020*
 
