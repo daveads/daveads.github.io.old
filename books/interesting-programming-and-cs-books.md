@@ -41,3 +41,13 @@ lang: en
 
 16. The Annotated Turing by charles Petzold
 
+17. Algorithms to Live By: The Computer Science of Human Decisions
+Brian Christian and Tom Griffiths
+
+18. Code: The Hidden Language of Computer Hardware and Software
+Charles Petzold
+
+19. The Mythical Man-Month by Fred Brooks
+
+20. Design Patterns: Elements of Reusable Object-Oriented Software Erich Gamma
+
