@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: home
+title: <<127.0.0.1>>
 lang: en
 ---
 

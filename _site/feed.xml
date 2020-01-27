@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-21T20:48:48-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry><title type="html">Indentation in Python</title><link href="http://localhost:4000/2020/01/17/indentation-in-python.html" rel="alternate" type="text/html" title="Indentation in Python" /><published>2020-01-17T00:00:00-05:00</published><updated>2020-01-17T00:00:00-05:00</updated><id>http://localhost:4000/2020/01/17/indentation-in-python</id><content type="html" xml:base="http://localhost:4000/2020/01/17/indentation-in-python.html">&lt;h2 id=&quot;what-is-indentation&quot;&gt;what is indentation:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-27T18:35:09-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry><title type="html">Indentation in Python</title><link href="http://localhost:4000/2020/01/17/indentation-in-python.html" rel="alternate" type="text/html" title="Indentation in Python" /><published>2020-01-17T00:00:00-05:00</published><updated>2020-01-17T00:00:00-05:00</updated><id>http://localhost:4000/2020/01/17/indentation-in-python</id><content type="html" xml:base="http://localhost:4000/2020/01/17/indentation-in-python.html">&lt;h2 id=&quot;what-is-indentation&quot;&gt;what is indentation:&lt;/h2&gt;
 
 &lt;p&gt;According to &lt;a href=&quot;https://en.wikipedia.org/wiki/Indentation_(typesetting)&quot;&gt;wikipedia - indentation&lt;/a&gt; indent is an empty space at the beginning of a line to signal the start of a new paragraph.&lt;/p&gt;
 
@@ -61,7 +61,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.entrepreneur.com/article/253737&quot;&gt;The Gift of Obsession&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.entrepreneur.com/article/244198&quot;&gt;A True Goal Needs to Become an Obsession&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Don’t read this you will not understand this</summary></entry><entry xml:lang="en"><title type="html">Computer Science resources for the curious</title><link href="http://localhost:4000/computer-science-resources.html" rel="alternate" type="text/html" title="Computer Science resources for the curious" /><published>2019-07-07T00:00:00-04:00</published><updated>2019-07-07T00:00:00-04:00</updated><id>http://localhost:4000/Computer-Science-Resources</id><content type="html" xml:base="http://localhost:4000/computer-science-resources.html">&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.entrepreneur.com/article/244198&quot;&gt;A True Goal Needs to Become an Obsession&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Don’t read this you will not understand this</summary></entry><entry xml:lang="en"><title type="html">Computer Science resources -curious</title><link href="http://localhost:4000/computer-science-resources.html" rel="alternate" type="text/html" title="Computer Science resources -curious" /><published>2019-07-07T00:00:00-04:00</published><updated>2019-07-07T00:00:00-04:00</updated><id>http://localhost:4000/Computer-Science-Resources</id><content type="html" xml:base="http://localhost:4000/computer-science-resources.html">&lt;blockquote&gt;
   &lt;p&gt;I love this particual line made by &lt;a href=&quot;https://en.wikipedia.org/wiki/Alan_Kay&quot;&gt;Alan kay&lt;/a&gt; 
 &lt;cite&gt;At some age you need to take responsibility for your own education&lt;/cite&gt;&lt;/p&gt;
 
@@ -86,7 +86,7 @@
 &lt;h2 id=&quot;others&quot;&gt;OTHERS&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/mathematics/&quot;&gt;Mit math courses&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/physics/&quot;&gt;Mit physcis Courses&lt;/a&gt; You can also take some courses that interest you right here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/physics/&quot;&gt;Mit physcis Courses&lt;/a&gt; courses of interest&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.edx.org/&quot;&gt;Edx&lt;/a&gt;&lt;/p&gt;
 
@@ -124,6 +124,6 @@
 
 &lt;p&gt;&lt;a href=&quot;http://norvig.com/21-days.html&quot;&gt;Teach Yourself Programming in Ten Years&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;books/books-for-programmers-and-cs-majors.html&quot;&gt;Books&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/books/interesting-programming-and-cs-books.html&quot;&gt;Books&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;last update 21-01-2020&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I love this particual line made by Alan kay At some age you need to take responsibility for your own education</summary></entry></feed>
