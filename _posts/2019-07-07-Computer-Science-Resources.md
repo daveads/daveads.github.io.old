@@ -73,7 +73,7 @@ lang: en
 
 [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
-[Books](/books/books-i-find-interesting.html)
+[Books](/books/interesting-programming-and-cs-books.html)
 
 *last update 21-01-2020*
 
