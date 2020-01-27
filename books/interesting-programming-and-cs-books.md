@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'books for programmers and cs majors'
+title: 'interesting programming and cs books'
 date: 
 permalink: /books/interesting-programming-and-cs-books.html
 lang: en
