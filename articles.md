@@ -1,7 +1,7 @@
 ---
 layout: default
 title: articles
-lang: en
+permalink: /articles.html
 ---
 
 
