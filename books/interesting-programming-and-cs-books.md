@@ -7,8 +7,6 @@ lang: en
 ---
 
 
-**interesting programming and cs books**
-
 // Books i find interesting....
 
 1. The Algorithm Design Manual by Steven S. Skiena
