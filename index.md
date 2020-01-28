@@ -17,7 +17,7 @@ Quote by albert einstein<br>
 Activities:(currently) || probably<br>
 x. Coding<br>
 x. Learning Something new <br>
-x. Seading || **//trying to read a research paper**<br>
+x. Reading || **//trying to read a research paper**<br>
 x. Experimenting _languages<br>
 x. Working on a startup idea<br>
 x. Tinkering<br>
