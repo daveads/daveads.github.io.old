@@ -12,7 +12,7 @@ Hello there! I'm Daveads...[Read more](/about.html)<br> **Welcome to my world**.
 
 >
 Quote by albert einstein<br>
-<cite>if you can't explain it in simply you don't understand it well enough...</cite>
+<cite>if you can't explain it simply, you don't understand it well enough...</cite>
 
 Activities:(currently) || probably<br>
 x. Coding<br>
