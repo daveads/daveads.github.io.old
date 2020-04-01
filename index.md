@@ -12,12 +12,18 @@ Hello there! I'm Daveads...[Read more](/about.html) **Welcome to my world** feel
 
 >
 Quote by albert einstein<br>
-<cite>if you can't explain it simply, you don't understand it well enough...</cite>
+<cite>"I have no special talent. I am only passionately curious."</cite>
+
+
+   <div>
+	<del><h1>i guess it a journal</h1></del>	
+   </div>
+
 
 ## **Activities::** currently || probably<br>
 x. Coding<br>
 x. Learning Something new <br>
-x. Reading<br>
+x. Reading random tech related stuffs<br>
 x. Experimenting _languages<br>
 x. Working on a startup idea<br>
 x. Tinkering something<br>
@@ -25,16 +31,3 @@ x. Researching stuffs about A.I<br>
 x. Trying to read a research paper<br>
 x. Trying to mentally model something<br>
 
-
-**Recent blogposts**👨‍💻️
-
-<div class="posts">
-  {% for post in site.posts %}
-	
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-    </article>
-	
-  {% endfor %}
-</div>

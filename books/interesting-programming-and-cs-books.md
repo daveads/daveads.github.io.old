@@ -52,3 +52,5 @@ Charles Petzold
 20. Design Patterns: Elements of Reusable Object-Oriented Software Erich Gamma
 
 21. Compilers: Principles, Techniques, and Tools by Alfred V.Aho, Ravi Sethi
+
+22. Refactoring: Improving the Design of Existing Code by kent Beck and Martin Fowler
