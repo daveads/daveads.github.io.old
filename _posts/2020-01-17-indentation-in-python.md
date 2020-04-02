@@ -89,5 +89,6 @@ while(a <= 10):
 	<li>makes the code beautiful (human readable)</li>
 </div>
 
-Check out python indentation rules 
-[pep8]()
+Check out python Style guide [pep8](https://www.python.org/dev/peps/pep-0008/#indentation)<br>
+
+[source code examples](https://github.com/Daveads/indentation)
