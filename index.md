@@ -16,7 +16,7 @@ Quote by albert einstein<br>
 
 
    <div>
-	<del><h1>i guess it a journal</h1></del>	
+	<del><h1>I guess i should call this my journal but...</h1></del>	
    </div>
 
 
