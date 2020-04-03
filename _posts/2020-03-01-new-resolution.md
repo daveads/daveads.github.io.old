@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'new resolution'
+title: 'New resolution'
 date: 2020-03-01
 categories: personal
 ---
@@ -12,7 +12,7 @@ To be honest right now i feel down because i am unable to do anything meaningful
 Don't get me wrong staying at home actually helps but to me it does not, should be able to help by working together with health professional or providing finical asistance... Still can't shake that feeling of my head that there is still alot i have to do and am not fully commited to it..
 
 
-**My resolution** is to write one article each day, this is going to be really hard for me but i feel optimistic about it.
+**My resolution** is to write one article once a week or probably everyday if possible, this is going to be really hard for me but i feel optimistic about it.
 
 <div>
 	<li>I know am currently the world worst writer and i hope this changes soon</li>
