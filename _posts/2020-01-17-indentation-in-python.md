@@ -2,6 +2,8 @@
 layout: post
 title: 'Indentation in Python'
 date: 2020-01-17
+categories: [python]
+tags: [hot]
 ---
 
 ## what is indentation:

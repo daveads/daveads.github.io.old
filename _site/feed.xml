@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-03T05:12:55-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry><title type="html">New resolution</title><link href="http://localhost:4000/personal/2020/03/01/new-resolution.html" rel="alternate" type="text/html" title="New resolution" /><published>2020-03-01T00:00:00-05:00</published><updated>2020-03-01T00:00:00-05:00</updated><id>http://localhost:4000/personal/2020/03/01/new-resolution</id><content type="html" xml:base="http://localhost:4000/personal/2020/03/01/new-resolution.html">&lt;h2 id=&quot;my-new-resolution-covid-19&quot;&gt;my new resolution (covid-19)&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-14T00:09:09-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry><title type="html">A quick intro to git and github(0)</title><link href="http://localhost:4000/tech/2020/03/02/a-quick-intro-to-git.html" rel="alternate" type="text/html" title="A quick intro to git and github(0)" /><published>2020-03-02T00:00:00-05:00</published><updated>2020-03-02T00:00:00-05:00</updated><id>http://localhost:4000/tech/2020/03/02/a-quick-intro-to-git</id><content type="html" xml:base="http://localhost:4000/tech/2020/03/02/a-quick-intro-to-git.html">&lt;p&gt;Incase you missed this &lt;a href=&quot;https://daveads.github.io/2020/01/17/indentation-in-python.html&quot;&gt;#my_resolution&lt;/a&gt; well this is me keeping up with that, but enough of me this not about me.&lt;/p&gt;
+
+&lt;div&gt;
+     Objective:
+&lt;li&gt;Understand the basics of version control System&lt;/li&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div&gt;
+     My current spec:
+	&lt;li&gt;OS: linux distro ubuntu, you can follow this up with any OS of your choice&lt;/li&gt;
+	&lt;li&gt;using the &lt;a href=&quot;&quot;&gt;terminal emulator&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://git-scm.com/&quot;&gt;Git:&lt;/a&gt; you do need git on your computer to be able to follow this tutorial&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;github account&lt;/a&gt;&lt;li&gt; 
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+
+
+## So what is a version control system(vsc) ?
+
+
+
+&lt;/li&gt;&lt;/li&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">Incase you missed this #my_resolution well this is me keeping up with that, but enough of me this not about me.</summary></entry><entry><title type="html">New resolution</title><link href="http://localhost:4000/personal/2020/03/01/new-resolution.html" rel="alternate" type="text/html" title="New resolution" /><published>2020-03-01T00:00:00-05:00</published><updated>2020-03-01T00:00:00-05:00</updated><id>http://localhost:4000/personal/2020/03/01/new-resolution</id><content type="html" xml:base="http://localhost:4000/personal/2020/03/01/new-resolution.html">&lt;h2 id=&quot;my-new-resolution-covid-19&quot;&gt;my new resolution (covid-19)&lt;/h2&gt;
 
 &lt;p&gt;To be honest right now i feel down because i am unable to do anything meaningful to help during critical moment, makes me feel stupid but i have a very strong feeling this is the last time this is going to happen to me.&lt;/p&gt;
 
@@ -70,7 +91,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.csail.mit.edu/research&quot;&gt;MIT Computer Science &amp;amp; Artificial Intelligence Lab&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.eecs.mit.edu/research&quot;&gt;research mit eecs&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Easy access for my personal use</summary></entry><entry><title type="html">Indentation in Python</title><link href="http://localhost:4000/2020/01/17/indentation-in-python.html" rel="alternate" type="text/html" title="Indentation in Python" /><published>2020-01-17T00:00:00-05:00</published><updated>2020-01-17T00:00:00-05:00</updated><id>http://localhost:4000/2020/01/17/indentation-in-python</id><content type="html" xml:base="http://localhost:4000/2020/01/17/indentation-in-python.html">&lt;h2 id=&quot;what-is-indentation&quot;&gt;what is indentation:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.eecs.mit.edu/research&quot;&gt;research mit eecs&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Easy access for my personal use</summary></entry><entry><title type="html">Indentation in Python</title><link href="http://localhost:4000/python/2020/01/17/indentation-in-python.html" rel="alternate" type="text/html" title="Indentation in Python" /><published>2020-01-17T00:00:00-05:00</published><updated>2020-01-17T00:00:00-05:00</updated><id>http://localhost:4000/python/2020/01/17/indentation-in-python</id><content type="html" xml:base="http://localhost:4000/python/2020/01/17/indentation-in-python.html">&lt;h2 id=&quot;what-is-indentation&quot;&gt;what is indentation:&lt;/h2&gt;
 
 &lt;p&gt;According to &lt;a href=&quot;https://en.wikipedia.org/wiki/Indentation_(typesetting)&quot;&gt;wikipedia - indentation&lt;/a&gt; indent is an empty space at the beginning of a line to signal the start of a new paragraph.&lt;/p&gt;
 
@@ -150,7 +171,7 @@ while(a &amp;lt;= 10):
 
 &lt;p&gt;Python’s Style guide &lt;a href=&quot;https://www.python.org/dev/peps/pep-0008/#indentation&quot;&gt;pep8&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/Daveads/indentation&quot;&gt;source code&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">what is indentation:</summary></entry><entry><title type="html">Letter to my Older self</title><link href="http://localhost:4000/2019/08/10/Letter-To-My-Older-Self.html" rel="alternate" type="text/html" title="Letter to my Older self" /><published>2019-08-10T00:00:00-04:00</published><updated>2019-08-10T00:00:00-04:00</updated><id>http://localhost:4000/2019/08/10/Letter-To-My-Older-Self</id><content type="html" xml:base="http://localhost:4000/2019/08/10/Letter-To-My-Older-Self.html">&lt;h3 id=&quot;dont-read-this-you-will-not-understand-this&quot;&gt;Don’t read this you will not understand this&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Daveads/indentation&quot;&gt;source code&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="hot" /><summary type="html">what is indentation:</summary></entry><entry><title type="html">Letter to my Older self</title><link href="http://localhost:4000/personal/2019/08/10/Letter-To-My-Older-Self.html" rel="alternate" type="text/html" title="Letter to my Older self" /><published>2019-08-10T00:00:00-04:00</published><updated>2019-08-10T00:00:00-04:00</updated><id>http://localhost:4000/personal/2019/08/10/Letter-To-My-Older-Self</id><content type="html" xml:base="http://localhost:4000/personal/2019/08/10/Letter-To-My-Older-Self.html">&lt;h3 id=&quot;dont-read-this-you-will-not-understand-this&quot;&gt;Don’t read this you will not understand this&lt;/h3&gt;
 
 &lt;p&gt;I think it important to write this up as a letter or reminder to my self&lt;/p&gt;
 

@@ -4,8 +4,21 @@ title: articles
 permalink: /articles.html
 ---
 
+<div id="ct" style="display:none">
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+ 
+{% endfor %}
+</div>
 
-<div class="posts">
+
+
+<div class="posts" id="pt">
   {% for post in site.posts %}
 	
     <article class="post">
@@ -15,3 +28,14 @@ permalink: /articles.html
 	
   {% endfor %}
 </div>
+
+
+<div>
+
+<input type="button" style="background-color:red; color:white;" value="Categories" onclick="cate()">
+
+<input type="button" style="background-color:red; color:white;" value="All" onclick="back()">
+</div><br>
+
+
+

@@ -21,13 +21,16 @@ Quote by albert einstein<br>
 
 
 ## **Activities::** currently || probably<br>
-x. Coding<br>
-x. Learning Something new <br>
-x. Reading random tech related stuffs<br>
-x. Experimenting _languages<br>
+x. Coding (Learning Something new) <br>
+x. Reading <br>
+x. Experimenting with _languages<br>
 x. Working on a startup idea<br>
-x. Tinkering something<br>
-x. Researching stuffs about A.I<br>
+x. Googling stuffs about A.I & tech related stuffs<br>
 x. Trying to read a research paper<br>
 x. Trying to mentally model something<br>
+
+<h1>Latest Post</h1>
+{% for post in site.posts limit:2 %}
+<a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}<br>
 
