@@ -4,6 +4,8 @@ title: articles
 permalink: /articles.html
 ---
 
+
+
 <div id="ct" style="display:none">
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
@@ -30,12 +32,12 @@ permalink: /articles.html
 </div>
 
 
-<div>
-
-<input type="button" style="background-color:red; color:white;" value="Categories" onclick="cate()">
-
-<input type="button" style="background-color:red; color:white;" value="All" onclick="back()">
-</div><br>
 
 
+<div style="postion:fixed; text-align:center">
+	<p> 
+	        <input type="button" style="background-color:white; color: red; width:110px; height:35px; font-size:19px; margin:40px;" value="Categories" onclick="cate()">
+	        <input type="button" style="background-color:white; color: red; width:110px; height:35px; font-size:19px; margin:40px;" value="All" onclick="back()">
+	</p>
+</div>
 
