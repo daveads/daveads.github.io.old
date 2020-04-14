@@ -36,8 +36,8 @@ permalink: /articles.html
 
 <div style="postion:fixed; text-align:center">
 	<p> 
-	        <input type="button" style="background-color:white; color: red; width:110px; height:35px; font-size:19px; margin:15px;" value="Categories" onclick="cate()">
-	        <input type="button" style="background-color:white; color: red; width:90px; height:35px; font-size:19px; margin:15px;" value="All" onclick="back()">
+	        <input type="button" style="background-color:white; color: red; width:110px; height:35px; font-size:19px; margin:3px;" value="Categories" onclick="cate()">
+	        <input type="button" style="background-color:white; color: red; width:90px; height:35px; font-size:19px; margin:3px;" value="All" onclick="back()">
 	</p>
 </div>
 
