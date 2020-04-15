@@ -29,7 +29,7 @@ x. Googling stuffs about A.I & tech related stuffs<br>
 x. Trying to read a research paper<br>
 x. Trying to mentally model something<br>
 
-<h1>Latest Post</h1>
+<h1>Latest Articles</h1>
 {% for post in site.posts limit:3 %}
 <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}<br>
