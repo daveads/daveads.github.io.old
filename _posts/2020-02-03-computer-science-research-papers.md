@@ -2,7 +2,7 @@
 layout: post
 title: 'Computer science research papers'
 date: 2020-01-29
-categories: tech
+categories: [tech, computer science]
 ---
 
 
