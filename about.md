@@ -33,16 +33,16 @@ Interested in Computer science, AI, math and everything the tech community have 
 
 
 ## **Development Tools**:: <br>
-<b>Note:</b> Tools base on interest and project requirement
+<b>Note:</b> Tools are base on interest and project requirement
 
-<p>Tools</p>
+<p>Tools:</p>
 * vim
 * Visual studio code
 * git
 * eclipse
 * Android studio 
 
-<p>OS</p>
+<p>OS:</p>
 * linux && Windows **//mostly on linux**
 
 Shell:: Bash
