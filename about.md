@@ -1,4 +1,3 @@
----
 layout: page
 title: About me
 permalink: /about.html
@@ -36,7 +35,7 @@ Interested in Computer science, AI, math and everything the tech community have 
 <b>Note:</b> Tools are base on interest and project requirements
 
 * [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
-* [Zeal documentation](https://github.com/zealdocs/zeal) (apart from Some languages && libraries docs) 
+* [Zeal documentation](https://github.com/zealdocs/zeal)
 * [Visual studio code](https://github.com/microsoft/vscode)
 * Version control => [Git](https://en.wikipedia.org/wiki/Git)
 * [Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software))
@@ -48,7 +47,7 @@ Interested in Computer science, AI, math and everything the tech community have 
 <br>
 
 <div style="background-color:black; color:white; padding:20px;">	
-  <b>I Love the Open Source Software (OSS) community, and think everyone should also contribute to their favorite tools and also create some if   interested</b>
+  <b>I Love the Open Source Software (OSS) community, and think everyone should also contribute to their favorite tools and also create some IF*</b>
 </div><br>
 
 [My_Todo List](/todo.html)
