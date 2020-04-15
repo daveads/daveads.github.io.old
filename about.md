@@ -5,24 +5,24 @@ permalink: /about.html
 ---
 
 Hello! I'm **Adejumo David Adewale**, A **Computer programmer** or if you would prefer **Software Engineer**
-Interested in Computer science, AI, math and everything the tech community have to offer...🎹️ i am naturally curious **and have the tendency to read just about anything that has the word computer attached to it**  I Might be Tranforming into a **POLYMATH..** 
+Interested in Computer science, AI, math and everything the tech community have to offer...🎹️ i am naturally curious **and have the tendency to read just about anything that has the word computer attached to it**  I might be Tranforming into a **POLYMATH..** 
 
 		
 >
 **Most times i feels the need understand physics for curious reasons (Quantum computing)**
 >
-**more of a polyglot programmer, #curious# Generalist**
+**More of a polyglot programmer, #curious# Generalist**
 
 
 
 ## **Major interest**::<br>
 <div>
 	<li>Artificial intelligence</li>
-	<li>languages</li>
+	<li>Computer Languages</li>
 	<li>VR && AR</li>
 	<li>Quantum computing</li>
+	<li>Android Development</li>	
 	<li>Virtually anything that catches my interest</li>
-	<li>Android Development</li>
 </div><br>
 
 
@@ -32,20 +32,23 @@ Interested in Computer science, AI, math and everything the tech community have 
 <br>
 
 
-## **Development Tools**:: <br>
-<b>Note:</b> Tools are base on interest and project requirement
+## **Major Development Tools**:: <br>
+<b>Note:</b> Tools are base on interest and project requirements
 
-<p>Tools:</p>
-* vim
-* Visual studio code
-* git
-* eclipse
-* Android studio 
+* [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
+* [Zeal documentation](https://github.com/zealdocs/zeal) (apart from Some languages && libraries docs) 
+* [Visual studio code](https://github.com/microsoft/vscode)
+* Version control => [Git](https://en.wikipedia.org/wiki/Git)
+* [Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software))
+* [Android studio](https://developer.android.com/studio/index.html) 
 
 <p>OS:</p>
-* linux && Windows **//mostly on linux**
+* Linux && Windows **//mostly on linux**
+* Current Shell:: Bash
+<br>
 
-Shell:: Bash
+<div style="background-color:black; color:white; padding:20px;">	
+  <b>I Love the Open Source Software (OSS) community, and think everyone should also contribute to their favorite tools and also create some if   interested</b>
+</div><br>
 
-
-[MY_Todo List - important](/todo.html)
+[My_Todo List](/todo.html)
