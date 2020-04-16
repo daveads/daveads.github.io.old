@@ -8,8 +8,8 @@ permalink: /articles.html
 
 <div id="ct" style="display:none">
 {% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
+  <h2>{{ category[0] }}</h2>
+  <ul style="font-size: 23px;">
     {% for post in category[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
