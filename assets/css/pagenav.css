@@ -16,3 +16,14 @@
   text-align: right;
 }
 
+
+.contact-lo{
+  padding: 15px;
+  margin:0;
+  font-size: 20px;
+}
+
+.contact-lo a:link{
+  text-decoration: none;
+  background-color: transparent;	
+}
