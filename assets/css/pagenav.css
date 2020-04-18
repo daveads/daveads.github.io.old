@@ -27,3 +27,8 @@
   text-decoration: none;
   background-color: transparent;	
 }
+
+.contact-lo a:hover {
+  color: black;
+}
+
