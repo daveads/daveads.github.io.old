@@ -2,7 +2,7 @@
 layout: post
 title: 'New resolution'
 date: 2020-03-01
-categories: personal
+categories: Personal
 ---
 
 ## my new resolution (covid-19)

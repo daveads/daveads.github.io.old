@@ -1,4 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-17T23:03:06-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry><title type="html">Technological Innovation in developing countries</title><link href="http://localhost:4000/tech/2020/04/14/Innovation-in-developing-countries.html" rel="alternate" type="text/html" title="Technological Innovation in developing countries" /><published>2020-04-14T00:00:00-04:00</published><updated>2020-04-14T00:00:00-04:00</updated><id>http://localhost:4000/tech/2020/04/14/Innovation-in-developing-countries</id><content type="html" xml:base="http://localhost:4000/tech/2020/04/14/Innovation-in-developing-countries.html">&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; This are based on my views on things affecting the rate of innovation in developing countries, i might be wrong but at same time right.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-25T03:10:32-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry><title type="html">The Linux Command line interface(0)</title><link href="http://localhost:4000/tools/linux/2020/04/25/using-The-Linux-Command-Line.html" rel="alternate" type="text/html" title="The Linux Command line interface(0)" /><published>2020-04-25T00:00:00-04:00</published><updated>2020-04-25T00:00:00-04:00</updated><id>http://localhost:4000/tools/linux/2020/04/25/using-The-Linux-Command-Line</id><content type="html" xml:base="http://localhost:4000/tools/linux/2020/04/25/using-The-Linux-Command-Line.html">&lt;p&gt;&lt;img src=&quot;/assets/gifs/cmd(0).gif&quot; alt=&quot;cmd&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I spend 90% of my time in the Terminal emulator (not really sure about that tho), for me it offer’s great flexibility and control than the GUI, and it can be really intimidating at first but it worth your time.&lt;/p&gt;
+
+&lt;p&gt;Prerequisites: unix or unix-like operating system.&lt;/p&gt;
+
+&lt;p&gt;Goals:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Learn what a command line is and how to use it&lt;/li&gt;
+  &lt;li&gt;Learn common useful commands&lt;/li&gt;
+  &lt;li&gt;understanding what a command is&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-a-command-line-interface&quot;&gt;What a &lt;a href=&quot;https://en.wikipedia.org/wiki/Command-line_interface&quot;&gt;command line interface&lt;/a&gt;?&lt;/h3&gt;
+
+&lt;p&gt;when talking about the command line we are actually refering to &lt;strong&gt;The Shell&lt;/strong&gt;. The shell is a program that takes in Commands or #keywords and passes them to the operating system to carry out. it’s a way of interacting with the computer os, similiar to the &lt;strong&gt;GUI&lt;/strong&gt; but faster and more powerful. The program which handles this commands in the terminal emulator is the &lt;strong&gt;Command-line interpreter&lt;/strong&gt; (shell).&lt;/p&gt;
+
+&lt;h3 id=&quot;shell-scripting&quot;&gt;Shell Scripting:&lt;/h3&gt;
+
+&lt;p&gt;As earlier said a Unix shell or shell is a command-line interpreter but also a programming language, the programming language features allows us to combine commands or (utilities) together in a file and run them as a scripts, and yea you can also call it a &lt;strong&gt;Script language&lt;/strong&gt; for now the major focus is getting you to understand the command line and having the feels of it without getting intimidated.. will write more on Shell script on &lt;strong&gt;Using The Linux Command Line(1)&lt;/strong&gt; or probably the next.&lt;/p&gt;
+
+&lt;h3 id=&quot;running-the-termainal-emulator&quot;&gt;Running the Termainal emulator:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Computer_terminal&quot;&gt;Computer terminal&lt;/a&gt;:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/terminal.png&quot; alt=&quot;Computer_terminal&quot; /&gt;&lt;br /&gt;
+Before really going into what the &lt;strong&gt;Terminal emulator&lt;/strong&gt; actually is, it important to know where it all started decades ago Computer’s had no GUI for accessing or modifying data, the computer terminal was the only means of entering data display and printing of data then the terminal were actualy physical computing devices examples usIBM 3270, VT100 and many others hardware terminals. check out &lt;a href=&quot;https://en.wikipedia.org/wiki/Computer_terminal&quot;&gt;computer terminal » wiki&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What’s a Terminal emulator:&lt;/strong&gt;
+The Terminal emulator is a software made to replicate the functions of &lt;strong&gt;Computer terminal&lt;/strong&gt; it is the Gui application needed to access &lt;strong&gt;the unix shell&lt;/strong&gt; environment which provides an interface to invoke commands, scripts and programs available on your system and also allows you to view and browse through the contents of directory just like you would with a &lt;strong&gt;FILE MANAGER APPLICATION&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Every linux distro comes with a default termainal emulator&lt;/strong&gt; Ubuntu and fedora comes with Gnome terminal emulator same with other linux distros,
+the first thing you see in the terminal emulator is the &lt;strong&gt;“command prompt”&lt;/strong&gt; which shows  $, %, # or &amp;gt; which also includes information about the current working directory and the current user, it also shows the readiness of the shell to accept commands from you.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;”#” : root access (super user)&lt;/li&gt;
+  &lt;li&gt;”$” : user access&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The default shell for most unix or unix like system is the &lt;a href=&quot;&quot;&gt;bash shell&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;other shells includes&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;sh&lt;/li&gt;
+  &lt;li&gt;bash&lt;/li&gt;
+  &lt;li&gt;zsh&lt;/li&gt;
+  &lt;li&gt;csh &lt;a href=&quot;&quot;&gt;e.t.c&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;to find out the shells available on your system use the command&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cat /etc/shells
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;display-content-in-your-file-directory&quot;&gt;Display content in your file directory&lt;/h3&gt;
+&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;ls&lt;/code&gt; command is use to print out the current directory out to the termainal emualator screen you will get the same result using the &lt;strong&gt;File Manager&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gifs/ls_cmd.gif&quot; alt=&quot;ls_cmd&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/file_m.png&quot; alt=&quot;file_manager&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To find out what a command actually means through the command line type this&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;whatis ls
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;you can also make use of the system’s manual pager for full doc&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;man ls
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To print your current working directory use the command &lt;code class=&quot;highlighter-rouge&quot;&gt;pwd&lt;/code&gt; 
+&lt;img src=&quot;/assets/images/pwd.png&quot; alt=&quot;pwd&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+The pwd is a builtin command within the bash shell itself type &lt;code class=&quot;highlighter-rouge&quot;&gt;help&lt;/code&gt; to find out more on builtin in commands.&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;time-for-experiments&quot;&gt;Time for Experiments&lt;/h3&gt;
+&lt;p&gt;here’s are common commands&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Command&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Meaning&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;clear&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;clear the termainal screen&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;change current directory&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mkdir&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;create a new directory &lt;strong&gt;folder&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;man&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Manual&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;nano&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Nano’s ANother editor&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;amp;&amp;amp;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;And&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cp&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;copy files&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mv&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;move files&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;touch&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;create a new file&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Technological Innovation in developing countries</title><link href="http://localhost:4000/tech/2020/04/14/Innovation-in-developing-countries.html" rel="alternate" type="text/html" title="Technological Innovation in developing countries" /><published>2020-04-14T00:00:00-04:00</published><updated>2020-04-14T00:00:00-04:00</updated><id>http://localhost:4000/tech/2020/04/14/Innovation-in-developing-countries</id><content type="html" xml:base="http://localhost:4000/tech/2020/04/14/Innovation-in-developing-countries.html">&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; This are based on my views on things affecting the rate of innovation in developing countries, i might be wrong but at same time right.&lt;/p&gt;
 
 &lt;p&gt;Writing this article feels a little weird for me, feels like something i should not write about but also having the feeling do it anyway. &lt;strong&gt;keeping this as short as possible, Won’t be able to touch all areas&lt;/strong&gt;&lt;/p&gt;
 

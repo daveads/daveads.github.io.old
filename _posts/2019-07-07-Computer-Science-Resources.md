@@ -4,7 +4,7 @@ title: 'Computer Science resources -curious'
 date: 2019-07-07
 permalink: /computer-science-resources.html
 lang: en
-categories: [computer science]
+categories: [Computer science]
 ---
 
 >I love this particual line made by [Alan kay](https://en.wikipedia.org/wiki/Alan_Kay) 

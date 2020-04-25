@@ -26,12 +26,6 @@ Interested in Computer science, AI, math and everything the tech community have 
 </div><br>
 
 
- ***making good use of feynman techique***
-![feyn](/images/feynman techn.jpg) 
-        *picture source google image*
-<br>
-
-
 ## **Major Development Tools**:: <br>
 <b>Note:</b> Tools are base on interest and project requirements
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Letter to my Older self'
 date: 2019-08-10
-categories: [personal]
+categories: [Personal]
 ---
 
 ### Don't read this you will not understand this 

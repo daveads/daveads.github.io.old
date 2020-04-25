@@ -2,7 +2,7 @@
 layout: post
 title: 'Tech blogs i find interesting'
 date: 2020-01-29
-categories: tech
+categories: Tech
 ---
 
 
