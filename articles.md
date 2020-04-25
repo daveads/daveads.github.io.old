@@ -4,7 +4,7 @@ title: articles
 permalink: /articles.html
 ---
 
-<p style="text-align:center; background-color:black; color:white; padding:0;" ><b>Ramblings from Daveads</b></p>
+<p style="text-align:center; background-color:black; color:white; padding:0;" ><b>Ramblings from me</b></p>
 
 <div id="ct" style="display:none">
 {% for category in site.categories %}

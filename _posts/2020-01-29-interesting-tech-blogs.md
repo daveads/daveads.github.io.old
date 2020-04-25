@@ -6,14 +6,14 @@ categories: Tech
 ---
 
 
-**cs/programmers blogs i find interesting**
+### **A List of Cs/Programmers blogs i find interesting**
 
 
-[Matt Might](http://matt.might.net/) Computer science professor
+[Matt Might](http://matt.might.net/)
 
 [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 
-[Daniel Lemire's blog](https://lemire.me/blog/) computer science professor at the University of Quebec
+[Daniel Lemire's blog](https://lemire.me/blog/)
 
 [Math ∩ Programming](https://jeremykun.com/)
 
@@ -25,6 +25,8 @@ categories: Tech
 
 [Overreacted](https://overreacted.io/)
 
-[Peter Norvig](http://norvig.com/) i guess you already know him
+[Peter Norvig](http://norvig.com/)
 
 [Eli Bendersky's website](https://eli.thegreenplace.net/)
+
+[Ramblings from Jessie](https://blog.jessfraz.com/)
