@@ -30,3 +30,5 @@ categories: Tech
 [Eli Bendersky's website](https://eli.thegreenplace.net/)
 
 [Ramblings from Jessie](https://blog.jessfraz.com/)
+
+[Julia Evans](https://jvns.ca/)

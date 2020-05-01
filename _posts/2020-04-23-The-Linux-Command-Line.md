@@ -15,8 +15,7 @@ Prerequisites: unix or unix-like operating system.
 Goals:
 
 * Learn what a command line is and how to use it
-* Learn common useful commands
-* understanding what a command is
+* Learn common useful commands and what they mean
 
 
 ### What a [command line interface](https://en.wikipedia.org/wiki/Command-line_interface)?

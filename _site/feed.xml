@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-25T04:46:34-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry><title type="html">The Linux Command line interface(0)</title><link href="http://localhost:4000/tools/linux/2020/04/25/The-Linux-Command-Line.html" rel="alternate" type="text/html" title="The Linux Command line interface(0)" /><published>2020-04-25T00:00:00-04:00</published><updated>2020-04-25T00:00:00-04:00</updated><id>http://localhost:4000/tools/linux/2020/04/25/The-Linux-Command-Line</id><content type="html" xml:base="http://localhost:4000/tools/linux/2020/04/25/The-Linux-Command-Line.html">&lt;p&gt;&lt;img src=&quot;/assets/gifs/cmd(0).gif&quot; alt=&quot;cmd&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-30T23:53:51-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry><title type="html">A quick introduction to tmux(0)</title><link href="http://localhost:4000/linux/tools/2020/04/30/introduction-to-tmux(0).html" rel="alternate" type="text/html" title="A quick introduction to tmux(0)" /><published>2020-04-30T00:00:00-04:00</published><updated>2020-04-30T00:00:00-04:00</updated><id>http://localhost:4000/linux/tools/2020/04/30/introduction-to-tmux(0)</id><content type="html" xml:base="http://localhost:4000/linux/tools/2020/04/30/introduction-to-tmux(0).html">&lt;p&gt;&lt;img src=&quot;/assets/images/tmux(0).png&quot; alt=&quot;tmux(0)&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Prerequisite:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Have a basic understanding of the linux &lt;a href=&quot;https://daveads.github.io/tools/linux/2020/04/25/The-Linux-Command-Line.html&quot;&gt;command line&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Install tmux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Goal:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Learn what tmux is&lt;/li&gt;
+  &lt;li&gt;Get a quick feel of tmux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tmux&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Tmux&quot;&gt;Tmux&lt;/a&gt;…?&lt;/h3&gt;
+&lt;p&gt;If you are anything like me then you probably have about &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;gt;= 5&lt;/code&gt; terminal windows open on your computer when working, And you have a hard time navigating through those terminal (windows) and keeping track of them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/tmux/tmux&quot;&gt;tmux&lt;/a&gt;&lt;/strong&gt; is a terminal multiplexer that helps creates and keep track of termianls from a single screen and does alot more than that, it makes multitasking much easier.&lt;/p&gt;
+
+&lt;h3 id=&quot;using-tmux&quot;&gt;Using Tmux:&lt;/h3&gt;
+
+&lt;p&gt;For now, the major focus is to get acquainted with tmux as qucikly as possible before understanding the way it works.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Open your terminal and type &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt; if available should open a default window like the pics below.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/tmux(0)_a.png&quot; alt=&quot;tmux(0)_a.png&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Press  &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl + b&lt;/code&gt; and key at the same time and then release it and then &lt;code class=&quot;highlighter-rouge&quot;&gt;shift + &quot;&lt;/code&gt; 
+&lt;strong&gt;This split the screen into two top and bottom&lt;/strong&gt;, the splitted screens are called pane.
+&lt;img src=&quot;/assets/images/tmux(0)_b.png&quot; alt=&quot;tmux(0)_a.png&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To navigate between the splitted screen &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl + b&lt;/code&gt; which open the prefix then &lt;code class=&quot;highlighter-rouge&quot;&gt;o&lt;/code&gt; key&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;keywords-in-tmux&quot;&gt;keywords in tmux&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;window&lt;/li&gt;
+  &lt;li&gt;pane&lt;/li&gt;
+  &lt;li&gt;sessions&lt;/li&gt;
+  &lt;li&gt;server&lt;/li&gt;
+  &lt;li&gt;client&lt;/li&gt;
+  &lt;li&gt;prefix&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;// will talk more on this on the next article&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/tmux/tmux&quot;&gt;tmux source code&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">The Linux Command line interface(0)</title><link href="http://localhost:4000/tools/linux/2020/04/25/The-Linux-Command-Line.html" rel="alternate" type="text/html" title="The Linux Command line interface(0)" /><published>2020-04-25T00:00:00-04:00</published><updated>2020-04-25T00:00:00-04:00</updated><id>http://localhost:4000/tools/linux/2020/04/25/The-Linux-Command-Line</id><content type="html" xml:base="http://localhost:4000/tools/linux/2020/04/25/The-Linux-Command-Line.html">&lt;p&gt;&lt;img src=&quot;/assets/gifs/cmd(0).gif&quot; alt=&quot;cmd&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I spend 90% of my time in the Terminal emulator (not really sure about that tho), for me it offer’s great flexibility and control than the GUI, and it can be really intimidating at first but it worth your time.&lt;/p&gt;
 
@@ -8,8 +61,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;Learn what a command line is and how to use it&lt;/li&gt;
-  &lt;li&gt;Learn common useful commands&lt;/li&gt;
-  &lt;li&gt;understanding what a command is&lt;/li&gt;
+  &lt;li&gt;Learn common useful commands and what they mean&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;what-a-command-line-interface&quot;&gt;What a &lt;a href=&quot;https://en.wikipedia.org/wiki/Command-line_interface&quot;&gt;command line interface&lt;/a&gt;?&lt;/h3&gt;
@@ -181,7 +233,9 @@ x. highly currious (Questions Everything) ability to connect the dots.&lt;br /&g
 
 &lt;p&gt;&lt;a href=&quot;https://eli.thegreenplace.net/&quot;&gt;Eli Bendersky’s website&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://blog.jessfraz.com/&quot;&gt;Ramblings from Jessie&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A List of Cs/Programmers blogs i find interesting</summary></entry><entry><title type="html">Computer science research papers</title><link href="http://localhost:4000/tech/computer%20science/2020/01/29/computer-science-research-papers.html" rel="alternate" type="text/html" title="Computer science research papers" /><published>2020-01-29T00:00:00-05:00</published><updated>2020-01-29T00:00:00-05:00</updated><id>http://localhost:4000/tech/computer%20science/2020/01/29/computer-science-research-papers</id><content type="html" xml:base="http://localhost:4000/tech/computer%20science/2020/01/29/computer-science-research-papers.html">&lt;p&gt;&lt;strong&gt;Easy access for my personal use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.jessfraz.com/&quot;&gt;Ramblings from Jessie&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jvns.ca/&quot;&gt;Julia Evans&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A List of Cs/Programmers blogs i find interesting</summary></entry><entry><title type="html">Computer science research papers</title><link href="http://localhost:4000/tech/computer%20science/2020/01/29/computer-science-research-papers.html" rel="alternate" type="text/html" title="Computer science research papers" /><published>2020-01-29T00:00:00-05:00</published><updated>2020-01-29T00:00:00-05:00</updated><id>http://localhost:4000/tech/computer%20science/2020/01/29/computer-science-research-papers</id><content type="html" xml:base="http://localhost:4000/tech/computer%20science/2020/01/29/computer-science-research-papers.html">&lt;p&gt;&lt;strong&gt;Easy access for my personal use&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://paperswelove.org/&quot;&gt;papers we over&lt;/a&gt;&lt;/p&gt;
 
@@ -227,7 +281,7 @@ x. highly currious (Questions Everything) ability to connect the dots.&lt;br /&g
 
 &lt;p&gt;According to &lt;a href=&quot;https://en.wikipedia.org/wiki/Indentation_(typesetting)&quot;&gt;wikipedia - indentation&lt;/a&gt; indent is an empty space at the beginning of a line to signal the start of a new paragraph.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/indent.png&quot; alt=&quot;indent&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/indent.png&quot; alt=&quot;indent&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In Python indentation refers to the (spaces and tabs) that are used at the beginning of a statement, it is a way of telling the interpreter this part of the code belongs to the same group,in programming language like c, c++, java, kotlin.. curly braces {} are use to indicate the start and end of a block of code..&lt;/p&gt;
 

@@ -10,7 +10,7 @@ tags: [hot]
 
 According to [wikipedia - indentation](https://en.wikipedia.org/wiki/Indentation_(typesetting)) indent is an empty space at the beginning of a line to signal the start of a new paragraph.
 
-![indent](/images/indent.png)
+![indent](/assets/images/indent.png)
 
 
    In Python indentation refers to the (spaces and tabs) that are used at the beginning of a statement, it is a way of telling the interpreter this part of the code belongs to the same group,in programming language like c, c++, java, kotlin.. curly braces {} are use to indicate the start and end of a block of code.. 
