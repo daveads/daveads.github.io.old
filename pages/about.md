@@ -13,7 +13,7 @@ Interested in Computer science, AI, math and everything the tech community have 
 >
 **More of a polyglot programmer, #curious# Generalist**
 
-
+I maintain this site to share stuff of interest to me...
 
 ## **Major interest**::<br>
 <div>
