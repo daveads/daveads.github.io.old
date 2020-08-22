@@ -1,6 +1,4 @@
 # Jekyll
-_site
-.sass-cache
 .jekyll-metadata
 .rubocop.yml
 .jekyll-cache
@@ -23,3 +21,9 @@ Caddyfile
 # OSX
 .DS_Store
 *.swp
+
+# Site
+.jekyll-cache/
+.sass-cache/
+_site/
+
