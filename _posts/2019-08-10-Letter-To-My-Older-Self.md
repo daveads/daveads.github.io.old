@@ -5,7 +5,7 @@ date: 2019-08-10
 categories: [Personal]
 ---
 
-### Don't read this you will not understand this 
+### Do ! read this 
 
 I think it important to write this up as a letter or reminder to my self 
 
