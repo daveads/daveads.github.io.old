@@ -21,7 +21,7 @@ I maintain this site to share stuff of interest to me...
 	<li>Computer Languages</li>
 	<li>VR && AR</li>
 	<li>Quantum computing</li>
-	<li>Android Development</li>	
+	<li>Mobile Development</li>	
 	<li>Virtually anything that catches my interest</li>
 </div><br>
 
@@ -41,8 +41,5 @@ I maintain this site to share stuff of interest to me...
 * Current Shell:: Bash
 <br>
 
-<div style="background-color:black; color:white; padding:20px;">	
-  <b>I Love the Open Source Software (OSS) community, and think everyone should also contribute to their favorite tools and also create some IF*</b>
-</div><br>
 
 [My_Todo List](/todo.html)
