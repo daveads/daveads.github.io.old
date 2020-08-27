@@ -29,6 +29,7 @@ categories: [Computer science]
 
 [What CS Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
+
 ## OTHERS
 [Mit math courses](https://ocw.mit.edu/courses/mathematics/)
 
@@ -42,7 +43,7 @@ categories: [Computer science]
 
 [The Open Source Date Science masters](https://github.com/datasciencemasters/go)
 
-[computer science in javascript](https://github.com/humanwhocodes/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
+[computer science in javascript](https://github.com/humanwhocodes/computer-science-in-javascript) collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
 
 [Teach yourself computer science](https://teachyourselfcs.com/)
 
@@ -56,6 +57,8 @@ categories: [Computer science]
 [Programming curricula](https://github.com/P1xt/p1xt-guides)
 
 [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+
+[Berkeley Coding Boot Camp](https://bootcamp.berkeley.edu/coding/)
 
 
 ## Alogrithms
