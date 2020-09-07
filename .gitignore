@@ -1,17 +1,7 @@
-# Jekyll
-.jekyll-metadata
-.rubocop.yml
-.jekyll-cache
-.env
-.ruby-version
-
-# Bundler
-Gemfile.lock
-.bundle
-vendor/bundle
-
-# Site
 .jekyll-cache/
 .sass-cache/
 _site/
+node_modules/
+
+
 

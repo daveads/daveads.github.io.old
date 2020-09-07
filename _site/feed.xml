@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-22T10:32:54-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry><title type="html">Git commands</title><link href="http://localhost:4000/tools/2020/08/22/git-config.html" rel="alternate" type="text/html" title="Git commands" /><published>2020-08-22T00:00:00-04:00</published><updated>2020-08-22T00:00:00-04:00</updated><id>http://localhost:4000/tools/2020/08/22/git-config</id><content type="html" xml:base="http://localhost:4000/tools/2020/08/22/git-config.html">&lt;p&gt;&lt;strong&gt;Git configuration setup&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git config --global user.name &quot;name&quot; //adds user name
-
-git config --global user.email email //adds email
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">Git configuration setup ``` git config –global user.name “name” //adds user name</summary></entry><entry><title type="html">A quick introduction to tmux(0)</title><link href="http://localhost:4000/linux/tools/2020/04/30/introduction-to-tmux(0).html" rel="alternate" type="text/html" title="A quick introduction to tmux(0)" /><published>2020-04-30T00:00:00-04:00</published><updated>2020-04-30T00:00:00-04:00</updated><id>http://localhost:4000/linux/tools/2020/04/30/introduction-to-tmux(0)</id><content type="html" xml:base="http://localhost:4000/linux/tools/2020/04/30/introduction-to-tmux(0).html">&lt;p&gt;&lt;img src=&quot;/assets/images/tmux(0).png&quot; alt=&quot;tmux(0)&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-27T08:00:09-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry><title type="html">A quick introduction to tmux(0)</title><link href="http://localhost:4000/linux/tools/2020/04/30/introduction-to-tmux(0).html" rel="alternate" type="text/html" title="A quick introduction to tmux(0)" /><published>2020-04-30T00:00:00-04:00</published><updated>2020-04-30T00:00:00-04:00</updated><id>http://localhost:4000/linux/tools/2020/04/30/introduction-to-tmux(0)</id><content type="html" xml:base="http://localhost:4000/linux/tools/2020/04/30/introduction-to-tmux(0).html">&lt;p&gt;&lt;img src=&quot;/assets/images/tmux(0).png&quot; alt=&quot;tmux(0)&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Prerequisite:&lt;/p&gt;
 &lt;ul&gt;
@@ -18,7 +13,7 @@ git config --global user.email email //adds email
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;tmux&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Tmux&quot;&gt;Tmux&lt;/a&gt;…?&lt;/h3&gt;
-&lt;p&gt;If you are anything like me then you probably have about &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;gt;= 5&lt;/code&gt; terminal windows open on your computer when working, And you have a hard time navigating through those terminal (windows) and keeping track of them.&lt;/p&gt;
+&lt;p&gt;If you are anything like me then you probably have about &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;gt;= 5&lt;/code&gt; terminal windows open on your computer when working, And you have a hard time navigating through those terminal (windows) and keeping track of them.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/tmux/tmux&quot;&gt;tmux&lt;/a&gt;&lt;/strong&gt; is a terminal multiplexer that helps creates and keep track of termianls from a single screen and does alot more than that, it makes multitasking much easier.&lt;/p&gt;
 
@@ -27,19 +22,19 @@ git config --global user.email email //adds email
 &lt;p&gt;For now, the major focus is to get acquainted with tmux as qucikly as possible before understanding the way it works.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Open your terminal and type &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt; if available should open a default window like the pics below.&lt;/li&gt;
+  &lt;li&gt;Open your terminal and type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmux&lt;/code&gt; if available should open a default window like the pics below.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/tmux(0)_a.png&quot; alt=&quot;tmux(0)_a.png&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Press  &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl + b&lt;/code&gt; and key at the same time and then release it and then &lt;code class=&quot;highlighter-rouge&quot;&gt;shift + &quot;&lt;/code&gt; 
+    &lt;p&gt;Press  &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ctrl + b&lt;/code&gt; and key at the same time and then release it and then &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;shift + &quot;&lt;/code&gt; 
 &lt;strong&gt;This split the screen into two top and bottom&lt;/strong&gt;, the splitted screens are called pane.
 &lt;img src=&quot;/assets/images/tmux(0)_b.png&quot; alt=&quot;tmux(0)_a.png&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;To navigate between the splitted screen &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl + b&lt;/code&gt; which open the prefix then &lt;code class=&quot;highlighter-rouge&quot;&gt;o&lt;/code&gt; key&lt;/p&gt;
+    &lt;p&gt;To navigate between the splitted screen &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ctrl + b&lt;/code&gt; which open the prefix then &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;o&lt;/code&gt; key&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -108,12 +103,12 @@ the first thing you see in the terminal emulator is the &lt;strong&gt;“command
 
 &lt;p&gt;to find out the shells available on your system use the command&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cat /etc/shells
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cat /etc/shells
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;display-content-in-your-file-directory&quot;&gt;Display content in your file directory&lt;/h3&gt;
-&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;ls&lt;/code&gt; command is use to print out the current directory out to the termainal emualator screen you will get the same result using the &lt;strong&gt;File Manager&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ls&lt;/code&gt; command is use to print out the current directory out to the termainal emualator screen you will get the same result using the &lt;strong&gt;File Manager&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/gifs/ls_cmd.gif&quot; alt=&quot;ls_cmd&quot; /&gt;&lt;/p&gt;
 
@@ -121,17 +116,17 @@ the first thing you see in the terminal emulator is the &lt;strong&gt;“command
 
 &lt;p&gt;To find out what a command actually means through the command line type this&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;whatis ls
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;whatis ls
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;you can also make use of the system’s manual pager for full doc&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;man ls
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;man ls
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;To print your current working directory use the command &lt;code class=&quot;highlighter-rouge&quot;&gt;pwd&lt;/code&gt; 
+&lt;p&gt;To print your current working directory use the command &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pwd&lt;/code&gt; 
 &lt;img src=&quot;/assets/images/pwd.png&quot; alt=&quot;pwd&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
-The pwd is a builtin command within the bash shell itself type &lt;code class=&quot;highlighter-rouge&quot;&gt;help&lt;/code&gt; to find out more on builtin in commands.&lt;br /&gt;&lt;/p&gt;
+The pwd is a builtin command within the bash shell itself type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;help&lt;/code&gt; to find out more on builtin in commands.&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;time-for-experiments&quot;&gt;Time for Experiments&lt;/h3&gt;
 &lt;p&gt;here’s are common commands&lt;/p&gt;
@@ -143,39 +138,39 @@ The pwd is a builtin command within the bash shell itself type &lt;code class=&q
       &lt;td&gt;&lt;strong&gt;Meaning&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;clear&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;clear&lt;/code&gt;&lt;/td&gt;
       &lt;td&gt;clear the termainal screen&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cd&lt;/code&gt;&lt;/td&gt;
       &lt;td&gt;change current directory&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mkdir&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mkdir&lt;/code&gt;&lt;/td&gt;
       &lt;td&gt;create a new directory &lt;strong&gt;folder&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;man&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;man&lt;/code&gt;&lt;/td&gt;
       &lt;td&gt;Manual&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;nano&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nano&lt;/code&gt;&lt;/td&gt;
       &lt;td&gt;Nano’s ANother editor&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;amp;&amp;amp;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;amp;&amp;amp;&lt;/code&gt;&lt;/td&gt;
       &lt;td&gt;And&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cp&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cp&lt;/code&gt;&lt;/td&gt;
       &lt;td&gt;copy files&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mv&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mv&lt;/code&gt;&lt;/td&gt;
       &lt;td&gt;move files&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;touch&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;touch&lt;/code&gt;&lt;/td&gt;
       &lt;td&gt;create a new file&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -293,7 +288,7 @@ x. highly currious (Questions Everything) ability to connect the dots.&lt;br /&g
 &lt;p&gt;In Python indentation refers to the (spaces and tabs) that are used at the beginning of a statement, it is a way of telling the interpreter this part of the code belongs to the same group,in programming language like c, c++, java, kotlin.. curly braces {} are use to indicate the start and end of a block of code..&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;indentation in java&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;public class indentation{ 
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;public class indentation{ 
 	public static void main(String[] args)
 		{ // shows this is the body of the main method
 		
@@ -335,7 +330,7 @@ knowledge,Spring 1973; for more on Peirce, see §2.6.1.3,below.)46&lt;br /&gt;&l
 
 &lt;p&gt;Indentation in python is very important because with out proper indenting you will end up seeing &lt;strong&gt;IndentationError:&lt;/strong&gt; examples as seen below&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if True:
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if True:
 print(&quot;yea true&quot;)
 else:
 print(&quot;not true&quot;)
@@ -343,7 +338,7 @@ print(&quot;not true&quot;)
 
 &lt;p&gt;In python when defining statement for functions and loops you do this using four white spaces or a single tab according to python indentation rules&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def print_statement():
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def print_statement():
     print(&quot;indented under print_statement&quot;)
     print(&quot;same&quot;)
     print(&quot;same&quot;)
@@ -441,7 +436,7 @@ while(a &amp;lt;= 10):
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/datasciencemasters/go&quot;&gt;The Open Source Date Science masters&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/humanwhocodes/computer-science-in-javascript&quot;&gt;computer science in javascript&lt;/a&gt; Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/humanwhocodes/computer-science-in-javascript&quot;&gt;computer science in javascript&lt;/a&gt; collection of classic computer science paradigms, algorithms, and approaches written in JavaScript&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://teachyourselfcs.com/&quot;&gt;Teach yourself computer science&lt;/a&gt;&lt;/p&gt;
 
@@ -454,6 +449,8 @@ while(a &amp;lt;= 10):
 &lt;p&gt;&lt;a href=&quot;https://github.com/P1xt/p1xt-guides&quot;&gt;Programming curricula&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/prakhar1989/awesome-courses&quot;&gt;Awesome CS Courses&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bootcamp.berkeley.edu/coding/&quot;&gt;Berkeley Coding Boot Camp&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;alogrithms&quot;&gt;Alogrithms&lt;/h2&gt;
 

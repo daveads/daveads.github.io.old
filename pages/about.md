@@ -11,7 +11,6 @@ Interested in Computer science, AI, math and everything the tech community have 
 >
 **Most times i feels the need understand physics for curious reasons (Quantum computing)**
 >
-**More of a polyglot programmer, #curious# Generalist**
 
 I maintain this site to share stuff of interest to me...
 
