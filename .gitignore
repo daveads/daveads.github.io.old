@@ -1,7 +1,14 @@
 .jekyll-cache/
+
 .sass-cache/
+
 _site/
+
 node_modules/
+
+*.swp
+
+Gemfile.lock
 
 
 
