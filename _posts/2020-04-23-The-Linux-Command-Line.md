@@ -2,7 +2,7 @@
 layout: post
 title: 'The Linux Command line interface(0)'
 date: 2020-04-25
-categories: [Tools, Linux]
+categories: [Linux]
 ---
 
 ![cmd](/assets/gifs/cmd(0).gif)
