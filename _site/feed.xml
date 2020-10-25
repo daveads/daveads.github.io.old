@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-25T13:51:24+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry xml:lang="en"><title type="html">knowledge worker</title><link href="http://localhost:4000/other/2020/10/25/knowledge-workers.html" rel="alternate" type="text/html" title="knowledge worker" /><published>2020-10-25T00:00:00+01:00</published><updated>2020-10-25T00:00:00+01:00</updated><id>http://localhost:4000/other/2020/10/25/knowledge-workers</id><content type="html" xml:base="http://localhost:4000/other/2020/10/25/knowledge-workers.html">&lt;p&gt;Glancing through the book &lt;a href=&quot;https://www.amazon.com/gp/product/1455586692/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1455586692&amp;amp;linkCode=as2&amp;amp;tag=daveads-20&amp;amp;linkId=383da9e80b4b22401dcdef4c58418841&quot;&gt;Deep work&lt;/a&gt;  made me aware of the term “knowledge workers”, this is something i do without actually knowing what kind of work it is classified as.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-25T14:27:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daveads</title><subtitle>Daveads personal site</subtitle><entry xml:lang="en"><title type="html">Knowledge worker</title><link href="http://localhost:4000/other/2020/10/25/knowledge-workers.html" rel="alternate" type="text/html" title="Knowledge worker" /><published>2020-10-25T00:00:00+01:00</published><updated>2020-10-25T00:00:00+01:00</updated><id>http://localhost:4000/other/2020/10/25/knowledge-workers</id><content type="html" xml:base="http://localhost:4000/other/2020/10/25/knowledge-workers.html">&lt;p&gt;Glancing through the book &lt;a href=&quot;https://www.amazon.com/gp/product/1455586692/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1455586692&amp;amp;linkCode=as2&amp;amp;tag=daveads-20&amp;amp;linkId=383da9e80b4b22401dcdef4c58418841&quot;&gt;Deep work&lt;/a&gt;, the term “knowledge workers” caught my attention, this is something i do without actually knowing what kind of work it is classified as.&lt;/p&gt;
 
 &lt;p&gt;Did some research on &lt;a href=&quot;https://corporatefinanceinstitute.com/resources/knowledge/other/knowledge-workers/&quot;&gt;knowledge worker&lt;/a&gt;&lt;/p&gt;
 
@@ -15,18 +15,21 @@ his book “The Land of Tomorrow”…  the knowledge worker are differentiated 
 
 &lt;p&gt;knowledge workers can be programmers, architects, engineers, marketers, design thinkers, public accountants, lawyers, and academics, and essentially any other white-collar worker who uses judgement and critical thinking in their role.&lt;/p&gt;
 
-&lt;h2 id=&quot;important-facts-i-got-from-reading-the-research&quot;&gt;Important facts i got from reading the research:&lt;/h2&gt;
+&lt;h2 id=&quot;important-facts-&quot;&gt;Important facts :&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;To stay relevant learning process is continuous&lt;/li&gt;
-  &lt;li&gt;They spend 38% of their time searching for information&lt;/li&gt;
+  &lt;li&gt;They spend 38% of their time searching for information
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;Articles :&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;more-info-&quot;&gt;More info :&lt;/h2&gt;
 
-&lt;p&gt;https://en.wikipedia.org/wiki/Knowledge_worker
-https://corporatefinanceinstitute.com/resources/knowledge/other/knowledge-workers/
-https://medium.com/snipply/knowledge-workers-information-life-cycles-and-content-silos-oh-my-a4263eed427&lt;/p&gt;</content><author><name></name></author><summary type="html">Glancing through the book Deep work made me aware of the term “knowledge workers”, this is something i do without actually knowing what kind of work it is classified as.</summary></entry><entry><title type="html">A quick introduction to tmux(0)</title><link href="http://localhost:4000/tools/2020/04/30/introduction-to-tmux(0).html" rel="alternate" type="text/html" title="A quick introduction to tmux(0)" /><published>2020-04-30T00:00:00+01:00</published><updated>2020-04-30T00:00:00+01:00</updated><id>http://localhost:4000/tools/2020/04/30/introduction-to-tmux(0)</id><content type="html" xml:base="http://localhost:4000/tools/2020/04/30/introduction-to-tmux(0).html">&lt;p&gt;&lt;img src=&quot;/assets/images/tmux(0).png&quot; alt=&quot;tmux(0)&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Knowledge_worker&quot;&gt;wiki: knowledge worker&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://corporatefinanceinstitute.com/resources/knowledge/other/knowledge-workers/&quot;&gt;corporate-finance-institute: knowledge workers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/snipply/knowledge-workers-information-life-cycles-and-content-silos-oh-my-a4263eed427&quot;&gt;medium: knowledge workers&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Glancing through the book Deep work, the term “knowledge workers” caught my attention, this is something i do without actually knowing what kind of work it is classified as.</summary></entry><entry><title type="html">A quick introduction to tmux(0)</title><link href="http://localhost:4000/tools/2020/04/30/introduction-to-tmux(0).html" rel="alternate" type="text/html" title="A quick introduction to tmux(0)" /><published>2020-04-30T00:00:00+01:00</published><updated>2020-04-30T00:00:00+01:00</updated><id>http://localhost:4000/tools/2020/04/30/introduction-to-tmux(0)</id><content type="html" xml:base="http://localhost:4000/tools/2020/04/30/introduction-to-tmux(0).html">&lt;p&gt;&lt;img src=&quot;/assets/images/tmux(0).png&quot; alt=&quot;tmux(0)&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Prerequisite:&lt;/p&gt;
 &lt;ul&gt;
