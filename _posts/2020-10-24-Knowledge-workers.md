@@ -29,8 +29,8 @@ knowledge workers can be programmers, architects, engineers, marketers, design t
 
 ## Important facts :
 
-1. To stay relevant learning process is continuous
-2. They spend 38% of their time searching for information
+* To stay relevant learning process is continuous
+* They spend 38% of their time searching for information
 <br>
 
 ## More info :

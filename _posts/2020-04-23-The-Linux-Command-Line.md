@@ -46,14 +46,14 @@ the first thing you see in the terminal emulator is the **"command prompt"** whi
 * "#" : root access (super user)
 * "$" : user access
 
-The default shell for most unix or unix like system is the [bash shell]() 
+The default shell for most unix or unix like system is the [bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
 
 other shells includes
 
 1. sh 
 2. bash 
 3. zsh 
-4. csh [e.t.c]()
+4. csh [e.t.c](https://en.wikipedia.org/wiki/Shell_(computing))
 
 to find out the shells available on your system use the command 
 

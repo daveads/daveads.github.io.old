@@ -6,7 +6,7 @@ categories: Tech
 ---
 
 
-### **A List of Cs/Programmers blogs i find interesting**
+### **A list of Cs/Programmers blogs i find interesting**
 
 
 [Matt Might](http://matt.might.net/)
@@ -21,7 +21,7 @@ categories: Tech
 
 [Project Nayuki](https://www.nayuki.io/)
 
-[paul-graham](http://www.paulgraham.com/index.html)
+[paul-graham](http://www.paulgraham.com/index.html) -Startup 
 
 [Overreacted](https://overreacted.io/)
 
@@ -34,3 +34,10 @@ categories: Tech
 [Julia Evans](https://jvns.ca/)
 
 [cliffle](http://cliffle.com/)
+
+[Sam Altman](https://blog.samaltman.com/) - Startup
+
+[Bob Nystrom](http://journal.stuffwithstuff.com/) -language
+
+[steve](https://steveklabnik.com/) -rust
+
