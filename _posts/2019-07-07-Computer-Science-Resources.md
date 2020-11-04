@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 'Computer Science resources -curious'
-date: 2019-07-07
-permalink: /computer-science-resources.html
-lang: en
+date: 21-01-2020
+permalink: 'article/computer-science-resources'
 categories: [Computer science]
 ---
-
+ 
 >I love this particual line made by [Alan kay](https://en.wikipedia.org/wiki/Alan_Kay) 
 <cite>At some age you need to take responsibility for your own education</cite>
 >
@@ -79,7 +78,6 @@ categories: [Computer science]
 
 [Books](/books/interesting-programming-and-cs-books.html)
 
-*last update 21-01-2020*
 
 
 

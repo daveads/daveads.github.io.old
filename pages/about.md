@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about.html
+permalink: /about
 ---
 
 Hello! I'm **Adejumo David Adewale**, A **Computer programmer** or if you would prefer **Software Engineer**

@@ -2,7 +2,8 @@
 layout: post
 title: 'Tech blogs i find interesting'
 date: 2020-01-29
-categories: Tech
+categories: Other
+permalink: 'article/tech-blogs-i-find-interesting'
 ---
 
 

@@ -30,7 +30,7 @@ x. Trying to read a research paper.<br>
 x. Trying to mentally model something.<br>
 
 <h1>Latest Articles</h1>
-{% for post in site.posts limit:3 %}
-<a href="{{ post.url }}">{{ post.title }}</a>
+{% for post in site.posts limit:5 %}
+* <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}<br>
 

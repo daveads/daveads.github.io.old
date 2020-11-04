@@ -1,7 +1,7 @@
 ---
 layout: default
 title: articles
-permalink: /articles.html
+permalink: /articles
 ---
 
 <p style="text-align:center; background-color:black; color:white; padding:0;" ><b>Ramblings from me</b></p>
@@ -12,6 +12,10 @@ permalink: /articles.html
   <ul style="font-size: 23px;">
     {% for post in category[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+   
+         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        
     {% endfor %}
   </ul>
  
@@ -23,10 +27,19 @@ permalink: /articles.html
 <div class="posts" id="pt">
   {% for post in site.posts %}
 	
-    <article class="post">
+        <h3>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-    </article>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+          
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        </h3>
+        
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
 	
   {% endfor %}
 </div>
@@ -40,4 +53,3 @@ permalink: /articles.html
 	        <input type="button" style="background-color:black; color: white; width:90px; height:35px; font-size:19px; margin:3px;" value="All" onclick="back()">
 	</p>
 </div>
-
