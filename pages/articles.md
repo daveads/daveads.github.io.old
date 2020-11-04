@@ -14,7 +14,12 @@ permalink: /articles
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
    
          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span class="post-meta">
+  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+  {% if post.last_modified_at %}
+  (Updated: <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%b %-d, %Y" }}</time>)
+  {% endif %}
+</span>
         
     {% endfor %}
   </ul>
@@ -34,7 +39,14 @@ permalink: /articles
           </a>
           
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        
+ <span class="post-meta">
+  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+  {% if post.last_modified_at %}
+  (Updated: <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%b %-d, %Y" }}</time>)
+  {% endif %}
+</span>
+
         </h3>
         
         {%- if site.show_excerpts -%}
