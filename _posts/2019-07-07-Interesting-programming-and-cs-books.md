@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'interesting programming and cs books'
-date: 
-permalink: /books/interesting-programming-and-cs-books.html
-lang: en
+title: 'Interesting programming and cs books'
+date: 2019-07-07
+categories: [Book review]
+permalink: /article/interesting-programming-and-cs-books
+last_modified_at: 2020-10-25
 ---
 
 
