@@ -47,7 +47,6 @@ This is one of the quality i currently lack, According to Steve Jobs,
 * **You get rich by owning things**
 
 
-
 # **Hard startups**
 Everyone has a different perspective to this, I like the writer's perspective and also belief startup founders should have a long-term commitment. This made me curious **what should startup in developing countries focus on...?**
 
