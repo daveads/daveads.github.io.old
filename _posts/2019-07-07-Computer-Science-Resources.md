@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Computer Science resources -curious'
-date: 21-01-2020
-permalink: 'article/computer-science-resources'
+date: 07-07-2019
+permalink: 'computer/article-science-resources'
 categories: [Computer science]
+last_modified_at: 2020-01-21
 ---
  
 >I love this particual line made by [Alan kay](https://en.wikipedia.org/wiki/Alan_Kay) 
