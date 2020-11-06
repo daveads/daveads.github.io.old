@@ -1,7 +1,7 @@
 ---
 layout: default
 title: articles
-permalink: /articles
+permalink: /blog
 ---
 
 <p style="text-align:center; background-color:black; color:white; padding:0;" ><b>Ramblings from me</b></p>
