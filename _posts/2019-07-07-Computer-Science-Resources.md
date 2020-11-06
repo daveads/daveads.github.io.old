@@ -2,7 +2,7 @@
 layout: post
 title: 'Computer Science resources -curious'
 date: 07-07-2019
-permalink: '/article/computer-science-resources'
+permalink: 'article/computer-science-resources'
 categories: [Computer science]
 last_modified_at: 2020-01-21
 ---
