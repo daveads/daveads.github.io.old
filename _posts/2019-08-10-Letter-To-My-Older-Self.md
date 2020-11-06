@@ -3,7 +3,7 @@ layout: post
 title: 'Letter to my Older self'
 date: 2019-08-10
 categories: [Personal]
-permalink: 'article/letter-to-my-older-self'
+permalink: 'writing/letter-to-my-older-self'
 ---
 
 ### Do ! read this 

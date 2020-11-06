@@ -3,7 +3,7 @@ layout: post
 title: 'Computer science research papers'
 date: 2020-01-29
 categories: [Computer science]
-permalink: 'article/computer-science-research-papers'
+permalink: 'writing/computer-science-research-papers'
 ---
 
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Two mind blowing articles i read today'
 date: 2020-10-27
 categories: Startups
-permalink: 'article/two-mind-blowing-articles-i-read-today'
+permalink: 'writing/two-mind-blowing-articles-i-read-today'
 ---
 
 **Articles on Startups and Success**

@@ -3,7 +3,7 @@ layout: post
 title: 'The Linux Command line interface(0)'
 date: 2020-04-25
 categories: [Linux]
-permalink: 'article/the-linux-command-line-interface(0)'
+permalink: 'writing/the-linux-command-line-interface(0)'
 ---
 
 ![cmd](/assets/gifs/cmd(0).gif)

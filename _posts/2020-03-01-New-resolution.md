@@ -3,7 +3,7 @@ layout: post
 title: 'New resolution'
 date: 2020-03-01
 categories: Personal
-permalink: 'article/new-resolution'
+permalink: 'writing/new-resolution'
 ---
 
 ## my new resolution (covid-19)
