@@ -7,7 +7,7 @@ categories: [Computer science]
 last_modified_at: 2020-01-21
 ---
  
->I love this particual line made by [Alan kay](https://en.wikipedia.org/wiki/Alan_Kay) 
+> I love this particual line made by [Alan kay](https://en.wikipedia.org/wiki/Alan_Kay) 
 <cite>At some age you need to take responsibility for your own education</cite>
 >
 
@@ -77,7 +77,7 @@ last_modified_at: 2020-01-21
 
 [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
-[Books](/books/interesting-programming-and-cs-books.html)
+[Books](/article/interesting-programming-and-cs-books.html)
 
 
 
