@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lost someone close recently'
-date: 2020-10-27
+date: 2020-11-06
 categories: [Personal]
 permalink: 'writing/lost-someone-close-recently'
 ---
