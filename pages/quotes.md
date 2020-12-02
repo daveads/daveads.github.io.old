@@ -18,3 +18,7 @@ permalink: /quotes.html
 <br>
 
 - > *"When something is important enough, you do it even if the odds are not in your favor."*<br> ~Elon Musk<br>
+
+- > *"People of accomplishment rarely sat back and let things happen to them. They went out and made things happen."*<br> ~Leonardo da Vinci<br>
+
+- > *“ Give me six hours to chop down a tree and I will spend the first four sharpening the ax.”*<br> ~Abraham Lincoln<br>
