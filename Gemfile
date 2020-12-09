@@ -14,9 +14,13 @@ gem "minima", "~> 2.5"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
+
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12.1"
   gem "jekyll-seo-tag"
+  gem "jekyll-admin"
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-watch'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -30,5 +34,5 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "jekyll-sitemap"
-
+gem 'jekyll-archives'
 gem "kramdown", ">= 2.3.0"

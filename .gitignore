@@ -1,14 +1,8 @@
 *.jekyll-cache/
-
 .sass-cache/
-
 _site/
-
 node_modules/
-
 *.swp
-
 Gemfile.lock
-
-
-
+package-lock.json
+math_equ.txt

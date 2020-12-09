@@ -1,18 +1,30 @@
 ---
 layout: page
-title: About me
+title: About
 permalink: /about
 ---
 
-Hello! I'm **Adejumo David Adewale**, A **Computer programmer** or if you would prefer **Software Engineer**
-Interested in Computer science, AI, math and everything the tech community have to offer...🎹️ i am naturally curious **and have the tendency to read just about anything that has the word computer attached to it**  I might be Tranforming into a **POLYMATH..** 
+### Blog:
+
+This blog is about
+* programming, computer science, diff software stack // always curiose
+* My continuous learning and interest in understanding how computers, ai e.t.c works, how they connect together.
+* Rambling about stuffs.
+* Startups
+* I maintain this site to share stuff of interest to me...
+
+
+### Me:
+
+Hello! I'm **Adejumo David Adewale**, i program things with [processors](computer programmer)...
+Interested in Computer science, AI, math and everything related to tech...🎹️ **I have the tendency to read just about anything that has the word computer attached to it**  I might be Tranforming into a **POLYMATH..** 
 
 		
 >
 **Most times i feels the need understand physics for curious reasons (Quantum computing)**
 >
 
-I maintain this site to share stuff of interest to me...
+
 
 ## **Major interest**::<br>
 <div>
@@ -25,7 +37,7 @@ I maintain this site to share stuff of interest to me...
 </div><br>
 
 
-## **Major Development Tools**:: <br>
+## **Major Development Tools**:: //updating.... <br>
 <b>Note:</b> Tools are base on interest and project requirements
 
 * [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
@@ -34,7 +46,7 @@ I maintain this site to share stuff of interest to me...
 * Version control => [Git](https://en.wikipedia.org/wiki/Git)
 * [Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software))
 * [Android studio](https://developer.android.com/studio/index.html) 
-
+* [Tmux]()
 <p>OS:</p>
 * Linux && Windows **//mostly on linux**
 * Current Shell:: Bash

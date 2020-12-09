@@ -4,6 +4,14 @@ title: Quotes
 permalink: /quotes.html
 ---
 
+<div id="root"></div>
+
+<script type="text/javascript" src="/assets/js/app.js" charset="utf-8"></script> 
+ 
+ 
+ <div id="jad"></div>
+
+<script type="text/javascript" src="/assets/js/jad.js" charset="utf-8"></script> 
 
 - > *"If you can't explain it simply, you don't understand it well enough"*<br> ~Albert einstein<br>
 
@@ -19,6 +27,10 @@ permalink: /quotes.html
 
 - > *"When something is important enough, you do it even if the odds are not in your favor."*<br> ~Elon Musk<br>
 
+<br>
+
 - > *"People of accomplishment rarely sat back and let things happen to them. They went out and made things happen."*<br> ~Leonardo da Vinci<br>
+
+<br>
 
 - > *“ Give me six hours to chop down a tree and I will spend the first four sharpening the ax.”*<br> ~Abraham Lincoln<br>
