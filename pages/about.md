@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Hey...! My name is **Adejumo David Adewale**, This is My Home on the [Internet](http://daveads.github.io/about). I program things that gets executed on a [processor](https://en.wikipedia.org/wiki/Central_processing_unit)...
+Hey...! My name is **Adejumo David Adewale**, This is My Home on the [Internet](/about). I program things that gets executed on a [processor](https://en.wikipedia.org/wiki/Central_processing_unit)...
 		
 
 ### **Major interest**::<br>
@@ -29,6 +29,6 @@ Hey...! My name is **Adejumo David Adewale**, This is My Home on the [Internet](
 
 **Others:**
 * Best [Quotes](/quotes)<br>
-* I keep my best [Notes]() ere
+* I keep my best [Notes](/notes) ere
 * [Contacts]()
 * [My_Todo List](/todo.html)
