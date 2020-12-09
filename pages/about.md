@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-I'm **Adejumo David Adewale**, i program things with [processors](https://en.wikipedia.org/wiki/Central_processing_unit)...
+Hey...! My name is **Adejumo David Adewale**, This is My Home on the [Internet](http://daveads.github.io/about). I program things that gets executed on a [processor](https://en.wikipedia.org/wiki/Central_processing_unit)...
 		
 
 ### **Major interest**::<br>
@@ -21,13 +21,14 @@ I'm **Adejumo David Adewale**, i program things with [processors](https://en.wik
 
 **About blog:**
 
-* programming, computer science, diff software stacks
+* programming, computer science,softwa re stacks
 * Interested in understanding how computers, ai e.t.c works, how they connect together.
 * Rambling about stuffs.
 * Startups
 * I maintain this site to share things of interest to me...
 
-
-
-
-[My_Todo List](/todo.html)
+**Others:**
+* Best [Quotes](/quotes)<br>
+* I keep my best [Notes]() ere
+* [Contacts]()
+* [My_Todo List](/todo.html)
