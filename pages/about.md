@@ -14,14 +14,14 @@ Hey...! My name is **Adejumo David Adewale**, This is My Home on the [Internet](
 	<li>VR && AR</li>
 	<li>Quantum computing</li>
 	<li>Mobile Development</li>	
-	<li>Virtually anything that catches my interest</li>
+	<li><del>Virtually anything that catches my interest</del></li>
 </div><br>
 
 
 
 **About blog:**
 
-* programming, computer science,softwa re stacks
+* programming, computer science,the software stack
 * Interested in understanding how computers, ai e.t.c works, how they connect together.
 * Rambling about stuffs.
 * Startups
@@ -30,5 +30,5 @@ Hey...! My name is **Adejumo David Adewale**, This is My Home on the [Internet](
 **Others:**
 * Best [Quotes](/quotes)<br>
 * I keep my best [Notes](/notes) ere
-* [Contacts]()
+* [Contacts](/contacts)
 * [My_Todo List](/todo.html)
