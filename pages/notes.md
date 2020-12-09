@@ -1,17 +1,23 @@
 ---
 layout: default
-title: books-summary
-permalink: /book-notes
+title: Summary
+permalink: /notes
 ---
 
-{% for book in site.book-notes %}
+## Notes **#summary** from talks, aritcles, papers and other things i find interesting....
+
+
+{% for note in site.notes %}
 
 <div id="ct">
 	 <h3>
 
-          <a class="post-link" href="{{ book.url | relative_url }}">
-            {{ book.title | escape }}
+          <a class="post-link" href="{{ note.url | relative_url }}">
+            {{ note.title | escape }}
           </a></h3>
           
- </div>         
+ </div>
 {% endfor %}
+
+
+
