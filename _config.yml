@@ -43,15 +43,10 @@ disqus:
 collections:
   notes:
     output: true
-    permalink: /:collection/:path
+    permalink: /notes/:title
     
 
-defaults:
-  - scope:
-      path: "notes"
-      type: "notes"
-    values:
-      layout: "post"   
+defaults:  
  
 exclude:
    - .sass-cache/
