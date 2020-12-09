@@ -7,26 +7,20 @@ permalink: /about
 ### Blog:
 
 This blog is about
-* programming, computer science, diff software stack // always curiose
+* programming, computer science, diff software stacks
 * My continuous learning and interest in understanding how computers, ai e.t.c works, how they connect together.
 * Rambling about stuffs.
 * Startups
 * I maintain this site to share stuff of interest to me...
 
 
-### Me:
+**Me:**
+--------
 
-Hello! I'm **Adejumo David Adewale**, i program things with [processors](computer programmer)...
-Interested in Computer science, AI, math and everything related to tech...🎹️ **I have the tendency to read just about anything that has the word computer attached to it**  I might be Tranforming into a **POLYMATH..** 
-
+My name is **Adejumo David Adewale**, i program things with [processors](https://en.wikipedia.org/wiki/Central_processing_unit)...
 		
->
-**Most times i feels the need understand physics for curious reasons (Quantum computing)**
->
 
-
-
-## **Major interest**::<br>
+### **Major interest**::<br>
 <div>
 	<li>Artificial intelligence</li>
 	<li>Computer Languages</li>
@@ -37,7 +31,7 @@ Interested in Computer science, AI, math and everything related to tech...🎹�
 </div><br>
 
 
-## **Major Development Tools**:: //updating.... <br>
+### **Major Development Tools**:: //updating.... <br>
 <b>Note:</b> Tools are base on interest and project requirements
 
 * [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
