@@ -77,7 +77,7 @@ last_modified_at: 2020-01-21
 
 [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
-[Books](/article/interesting-programming-and-cs-books.html)
+[Books](/writing/interesting-programming-and-cs-books.html)
 
 
 
