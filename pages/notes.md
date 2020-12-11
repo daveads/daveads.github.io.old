@@ -11,13 +11,17 @@ permalink: /notes
 
 <div id="ct">
 	 <h3>
-
+	  {{note.category}}
           <a class="post-link" href="{{ note.url | relative_url }}">
             {{ note.title | escape }}
           </a></h3>
           
  </div>
+ 
+
+ 
 {% endfor %}
+
 
 
 
