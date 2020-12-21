@@ -35,6 +35,7 @@ permalink: /quotes.html
 
 - > *“ Give me six hours to chop down a tree and I will spend the first four sharpening the ax.”*<br> ~Abraham Lincoln<br>
 
+
 <br>
 
 
@@ -42,4 +43,7 @@ permalink: /quotes.html
 
 <br>
 
+
 - > *"Science can amuse and fascinate us all, but it is engineering that changes the world."*<br> ~Isaac Asimov<br>
+
+
