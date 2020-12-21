@@ -34,3 +34,12 @@ permalink: /quotes.html
 <br>
 
 - > *“ Give me six hours to chop down a tree and I will spend the first four sharpening the ax.”*<br> ~Abraham Lincoln<br>
+
+<br>
+
+
+- > *“Once you stop learning, you start dying.”*<br> ~Albert Einstein<br>
+
+<br>
+
+- > *"Science can amuse and fascinate us all, but it is engineering that changes the world."*<br> ~Isaac Asimov<br>
