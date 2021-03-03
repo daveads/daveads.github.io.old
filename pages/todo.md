@@ -14,9 +14,13 @@ NOTE:
 
 4. build weird projects.. ❌️
 
-5. Solve a #local problem ❌️<br>
+5. Solve a #local problem. ❌️<br>
 	**Security #virtually & #physically**<br>
 	**Health care system** 
  
 6. <del>Get a +1 **if** (networth) >= half a billion $</del>❌️
+
+7. Be fluent at least in one foregin language. 0.1 %
+
+8. Be physically fit. 2%
 
