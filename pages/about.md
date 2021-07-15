@@ -11,21 +11,22 @@ Hey...! My name is **Adejumo David Adewale**, This is My Home on the [Internet](
 <div>
 	<li>Artificial intelligence</li>
 	<li>Computer Languages</li>
-	<li>VR && AR</li>
 	<li>Quantum computing</li>
 	<li>Mobile Development</li>	
-	<li><del>Virtually anything that catches my interest</del></li>
+	<li>Virtually anything that catches my interest</li>
 </div><br>
 
 
 
 **About blog:**
 
-* programming, computer science,the software stack
-* Interested in understanding how computers, ai e.t.c works, how they connect together.
-* Rambling about stuffs.
+The blog is mostly about....
+
+* programming, computer science, Software stack
+* My Interest in understanding how computers, ai e.t.c works, how they connect together.
+* Me Rambling and Musing about Thing **tech related**.
 * Startups
-* I maintain this site to share things of interest to me...
+* Sharing things of interest to me...
 
 **Others:**
 * Best [Quotes](/quotes)<br>
