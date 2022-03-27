@@ -1,9 +1,8 @@
 ---
-layout: page
 title: About
-permalink: /about
+layout: page
+permalink: "/about"
 ---
-
 
 **NAME:** <b>Adejumo David Adewale</b>, I write [things](https://en.wikipedia.org/wiki/Computer_program) that gets executed on a [processor](https://en.wikipedia.org/wiki/Central_processing_unit) && leverages the [gpu](https://en.wikipedia.org/wiki/Graphics_processing_unit).
 		
@@ -23,7 +22,3 @@ Mostly about -
 * I keep my [Notes](/notes) here.
 * [Contacts](/contacts).
 * [My_Todo List](/todo.html).
-
-**Special:**
-[miss cluzzy](https://daveads.github.io/pages/cluzzy/cluzzy.html)
-
