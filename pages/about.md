@@ -19,6 +19,6 @@ Mostly about -
 
 **Others:**
 * Best [Quotes](/quotes).<br>
-* I keep my [Notes](/notes) here.
+* [Notes](https://github.com/Daveads/_notes).
 * [Contacts](/contacts).
 * [My_Todo List](/todo.html).
