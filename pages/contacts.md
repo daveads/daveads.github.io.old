@@ -13,6 +13,7 @@ permalink: /contacts.html
 	<div style="">
 		
 		<li>Email : <a href="mailto:the.daveads@gmail.com">the.daveads@gmail.com</a></li>
+		<br>
 		
 		<li>Twitter : <a href="https://twitter.com/The_Daveads"> The_Daveads</a></li>
 		
