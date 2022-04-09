@@ -3,7 +3,7 @@ layout: post
 title: 'Computer Science resources -curious'
 date: 07-07-2019
 permalink: 'writing/computer-science-resources'
-categories: [Computer science]
+categories: Computer-science
 last_modified_at: 2020-01-21
 ---
  

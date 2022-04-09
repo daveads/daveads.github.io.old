@@ -4,29 +4,12 @@ title: articles
 permalink: /blog
 ---
 
-<p style="text-align:center; background-color:black; color:white; padding:0;" ><b>Ramblings from me</b></p>
+<p style="text-align:center; color:Black; padding:0; font-size: 150%" ><b>Ramblings from me</b></p>
 
-<div id="ct" style="display:none">
-{% for category in site.categories %}
-  <h2>{{ category[0] }}</h2>
-  <ul style="font-size: 23px;">
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-   
-         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">
-  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-  {% if post.last_modified_at %}
-  (Updated: <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%b %-d, %Y" }}</time>)
-  {% endif %}
-</span>
-        
-    {% endfor %}
-  </ul>
- 
-{% endfor %}
+
+<div>
+		{%- include categories.html -%}
 </div>
-
 
 
 <div class="posts" id="pt">
@@ -54,14 +37,4 @@ permalink: /blog
         {%- endif -%}
 	
   {% endfor %}
-</div>
-
-
-
-
-<div style="text-align:center;">
-	<p> 
-	        <input type="button" style="background-color:black; color: white; width:110px; height:35px; font-size:19px; margin:3px;" value="Categories" onclick="cate()">
-	        <input type="button" style="background-color:black; color: white; width:90px; height:35px; font-size:19px; margin:3px;" value="All" onclick="back()">
-	</p>
 </div>

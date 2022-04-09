@@ -3,7 +3,7 @@ layout: post
 title: 'Knowledge worker'
 date: 2020-10-25
 lang: en
-categories: [Other]
+categories: [General]
 permalink: 'writing/knowledge-worker'
 ---
 

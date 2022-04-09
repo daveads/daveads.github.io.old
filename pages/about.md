@@ -6,10 +6,7 @@ permalink: "/about"
 
 **NAME:** <b>Adejumo David Adewale</b>, I write [things](https://en.wikipedia.org/wiki/Computer_program) that gets executed on a [processor](https://en.wikipedia.org/wiki/Central_processing_unit) && leverages the [gpu](https://en.wikipedia.org/wiki/Graphics_processing_unit).
 		
-**About blog**
-
-Mostly about -
-
+Mostly -
 * programming, computer science, Software stack.
 * My interest in understanding how computers, **a.i** .e.t.c works, and how they all connect together.
 * Me Rambling and Musing about Thing **tech related**.
@@ -18,7 +15,6 @@ Mostly about -
 
 
 **Others:**
-* Best [Quotes](/quotes).<br>
 * [Notes](https://github.com/Daveads/_notes).
 * [Contacts](/contacts).
 * [My_Todo List](/todo.html).

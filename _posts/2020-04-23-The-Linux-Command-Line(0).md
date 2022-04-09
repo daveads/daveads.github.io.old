@@ -4,6 +4,7 @@ title: 'The Linux Command line interface(0)'
 date: 2020-04-25
 categories: [Linux]
 permalink: 'writing/the-linux-command-line-interface(0)'
+last_modified_at: 2021-01-10
 ---
 
 ![cmd](/assets/gifs/cmd(0).gif)
@@ -100,6 +101,7 @@ here's are common commands
 ```cp```    | copy files
 ```mv```    | move files
 ```touch``` | create a new file
+```
 
-
-
+**Resources**
+[The Missing Semester of Your CS Education By Mit](https://missing.csail.mit.edu/)

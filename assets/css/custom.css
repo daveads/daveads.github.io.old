@@ -1,0 +1,32 @@
+.scrolling-wrapper{
+	overflow-x: auto;
+    background-color: rgb(240, 234, 234);
+}
+
+.block-div{
+    border: 1px solid silver;
+    background-color: white;
+    border-left: 2px solid black;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  .icon-space{
+      margin-right: 5%;
+  }
+
+
+.category {
+    display: inline-block;
+    width: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+	background-color: white;
+	font-size: 110%;
+	font-weight: bold;
+}
+
+

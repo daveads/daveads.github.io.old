@@ -1,0 +1,3 @@
+The best way for now....
+
+too lazy to think too much about this

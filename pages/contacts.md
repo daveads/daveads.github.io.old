@@ -4,29 +4,30 @@ title: contacts
 permalink: /contacts.html
 ---
 
-
+<br>
 
 <div style="">
 
-<p class="contact-lo"><b>Twitter</b>
-	<a href="https://twitter.com/The_Daveads">
-	<img src="/assets/images/tweet.png" alt="twitter" style="width: 42px; height:42; border:0;">
-	</a>
-</p>
+		<h2 style="font-weight: bold;"> Somewhere else </h2>
+		
+	<div style="">
+		
+		<li>Email : <a href="mailto:the.daveads@gmail.com">the.daveads@gmail.com</a></li>
+		
+		<li>Twitter : <a href="https://twitter.com/The_Daveads"> The_Daveads</a></li>
+		
+		<li>Github : <a href="https://github.com/Daveads"> Daveads </a> </li>
+		
+		<li>Instagram : <a href="https://www.instagram.com/_daveads/"> _daveads </a> </li>
+		
+		<li>Reddit : </li>
+	
+		<li>Youtube :</li>
 
-
-<p class="contact-lo"><b>Github</b>
-	<a href="https://github.com/Daveads">
-	<img src="/assets/images/gith.png" alt="github" style="width:42px; height:42; border:0;">
-	</a>
-</p>
-
-
-<p class="contact-lo"><b>Gmail</b>
-	<a href="mailto:the.daveads@gmail.com">
-	<img src="/assets/images/gmail.png" alt="gmail" style="width:42px; height:42; border:0;">
-	</a>
-</p>
-
+   </div>
+  
+  
+		<!-- <h1>Resume</h1> -->
+		
 </div>
 

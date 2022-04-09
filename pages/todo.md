@@ -24,3 +24,4 @@ NOTE:
 
 8. Be physically fit. 2%
 
+9. write CPU emulator
