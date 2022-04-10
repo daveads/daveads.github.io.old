@@ -7,7 +7,13 @@ title: Adejumo David Adewale
 lang: en
 ---
 
-Hello! I'm [Daveads...](/about.html) **Welcome to my world** feel at **[127.0.0.1](http://daveads.github.io/)**
+<div style="//text-align: center;">
+
+<p> Hello! Welcome to <a href="/about.html">Davead's...</a> <b>World</b> feel at <a href="http://daveads.github.io/">127.0.0.1</a></p>
+
+</div>
+
+<br>
 
 ### **Activities::** currently || probably<br>
 x. Coding (Learning Something new). <br>
