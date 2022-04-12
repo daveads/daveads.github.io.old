@@ -15,6 +15,6 @@ Mostly -
 
 
 **Others:**
-* [Notes](https://github.com/Daveads/_notes).
+* [Notes](https://daveads.github.io/notes/).
 * [Contacts](/contacts).
 * [My_Todo List](/todo.html).
