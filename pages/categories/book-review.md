@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: categories
 title: 'Book reviews'
 permalink: 'categories/book-reviews'
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: categories
 title: 'Linux'
 permalink: 'categories/linux'
 ---

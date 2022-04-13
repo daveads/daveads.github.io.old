@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: categories
 title: 'General'
 permalink: 'categories/general'
 ---
