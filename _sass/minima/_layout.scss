@@ -52,7 +52,7 @@
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
-    background-color: $background-color;
+    background-color: black;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
@@ -75,6 +75,7 @@
       padding-top: 10px;
       text-align: center;
 	  background-color: black;
+	  padding-left: 0.5px;
 
       > svg {
         fill: white;
