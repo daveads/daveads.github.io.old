@@ -4,7 +4,7 @@ title: articles
 permalink: /blog
 ---
 
-<p style="text-align:center; color:Black; padding:0; font-size: 150%" ><b>Ramblings from me</b></p>
+<p style="text-align:center; color:#cccccc; padding:0; font-size: 150%" ><b>Ramblings from me</b></p>
 
 
 <div>
