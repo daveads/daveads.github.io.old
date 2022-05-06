@@ -24,9 +24,8 @@ a:link {
     padding-bottom: 10px;
     padding-right: 10px;
     padding-left: 10px;
-	background-color: white;
+	background-color: black;
 	font-size: 110%;
 	font-weight: bold;
+	color: #cccccc;
 }
-
-

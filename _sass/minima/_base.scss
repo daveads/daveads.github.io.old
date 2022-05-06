@@ -14,8 +14,10 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
-  background-color: $background-color;
+  //color: $text-color;
+  color: #dddee1;
+  //background-color: $background-color;
+  background-color: black;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -110,8 +112,9 @@ a {
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: none;
+    //color: $text-color;
+	color: #cccccc;
+	text-decoration: none;
   }
 
   .social-media-list &:hover {
