@@ -6,11 +6,11 @@ permalink: /todo.html
 
 NOTE: 
 
-1. Create my own programming langugage ❌️
+1. Create my own programming language ❌️
 
 2. build tech companies [#Global]() //solving interesting && hard problems [#interdisciplinary_fields]()❌️
 
-3. build a personal self aware virtual asistance [artifical general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)   ❌️
+3. build a personal self aware virtual assistance [artifical general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)   ❌️
 
 4. build weird projects.. ❌️
 
@@ -18,11 +18,11 @@ NOTE:
 	**Security #virtually & #physically**<br>
 	**Health care system** 
  
-6. <del>Get a +1 **if** (networth) >= half a billion $</del>❌️
+6. <del>Get a +1 **if** (net worth) >= half a billion $</del>❌️
 
-7. Be fluent at least in one foregin language. 0.1 %
+7. Be fluent in one foreign language. -0.1 %
 
-8. Be physically fit. 2%
+8. Be physically fit. 20%
 
 9. write CPU emulator.
 
