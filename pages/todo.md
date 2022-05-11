@@ -24,4 +24,6 @@ NOTE:
 
 8. Be physically fit. 2%
 
-9. write CPU emulator
+9. write CPU emulator.
+
+10. a deep knowledge of computational physics(PHYSICS) && hardware.
