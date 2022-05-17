@@ -40,8 +40,7 @@ public class indentation{
 **Question:** what's the whole point of indentation ?<br>
 **Answer:** glance through the example below and tell me what you think about it. 
 
-The coherence theory states that a proposition is true if and only if that proposition coheres with the other propositions that one believes. . . . The problem with the coherence theory is that a belief could be consistent with my other beliefs and yet the whole lot could be false. —Colin McGinn (2015a, p. 148) According to the coherence theory of truth (see Young 2018), a set of propositions (or beliefs, or sentences) is true iff:they are mutually consistent, and 2.they are supported by, or consistent with, all available evidence; that is, they “cohere” with each other and with all evidence. Note that observation statements (that is, descriptions of what we observe in the
-world around us) are among the claims that must be mutually consistent, so this is
+> The coherence theory states that a proposition is true if and only if that proposition coheres with the other propositions that one believes. . . . The problem with the coherence theory is that a belief could be consistent with my other beliefs and yet the whole lot could be false. —Colin McGinn (2015a, p. 148) According to the coherence theory of truth (see Young 2018), a set of propositions (or beliefs, or sentences) is true iff:they are mutually consistent, and 2.they are supported by, or consistent with, all available evidence; that is, they “cohere” with each other and with all evidence. Note that observation statements (that is, descriptions of what we observe in the world around us) are among the claims that must be mutually consistent, so this is
 not (necessarily) a “pie-in-the-sky” theory that doesn’t have to relate to the way things
 really are. It just says that we don’t have to have independent access to “reality” in
 order to determine truth.
@@ -57,7 +56,6 @@ be accepted at the limit of inquiry:
 Truth is that to which a belief would tend were it to tend indefinitely to a fixed
 belief. (Edwin Martin, Jr., paraphrasing C.S. Peirce; lectures on the theory of
 knowledge,Spring 1973; for more on Peirce, see §2.6.1.3,below.)46<br>
-
 
 
 Indentation in python is very important because with out proper indenting you will end up seeing **IndentationError:** examples as seen below
