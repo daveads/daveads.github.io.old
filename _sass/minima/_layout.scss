@@ -11,8 +11,9 @@
 }
 
 .site-title {
-  @include relative-font-size(1.625);
-  font-weight: 300;
+  // @include relative-font-size(1.625); wtf does this do
+  font-size: 30px;
+  font-weight: bold;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -29,6 +30,7 @@
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
   background-color: black;
+  font-size: 20px;
   /** position: fixed; **/
 
   .nav-trigger {
@@ -83,15 +85,15 @@
       }
     }
 
-    input ~ .trigger {
+     .trigger {
       clear: both;
       display: none;
     }
 
-    input:checked ~ .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
+	 &:hover .trigger {
+            display: block;
+            padding-bottom: 5px;
+        }
 
     .page-link {
       display: block;
