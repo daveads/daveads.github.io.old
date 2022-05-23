@@ -41,12 +41,23 @@ disqus:
 #source: src
 
 collections:
-  notes:
+  tags:
     output: true
-    permalink: /notes/:title
-    
+    permalink: tags/:path/
 
-defaults:  
+  categories:
+    output: true
+    permalink: categories/:path/
+    
+#https://github.com/rouge-ruby/rouge
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  
+  
+#defaults:  
  
 exclude:
    - .sass-cache/

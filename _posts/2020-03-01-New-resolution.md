@@ -2,8 +2,9 @@
 layout: post
 title: 'New resolution'
 date: 2020-03-01
-categories: Personal
+categories: [Self]
 permalink: 'writing/new-resolution'
+tags: personal
 ---
 
 ## my new resolution (covid-19)

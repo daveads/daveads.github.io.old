@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+bundle update
+echo "updated"
+
+webpack
+
+bundle exec jekyll serve --watch

@@ -8,7 +8,7 @@ permalink: /blog
 
 
 <div>
-		{%- include categories.html -%}
+		{%- include categories_include.html -%}
 </div>
 
 

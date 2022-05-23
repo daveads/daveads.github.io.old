@@ -2,7 +2,7 @@
 layout: post
 title: 'Computer science research papers'
 date: 2020-01-29
-categories: [Computer-science]
+categories: [CS]
 permalink: 'writing/computer-science-research-papers'
 ---
 

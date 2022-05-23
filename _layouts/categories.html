@@ -1,45 +1,35 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
+<div class="">
+  <h1 class="">{{ page.categories }} categories </h1>
+   
+  {% for post in site.posts %}
+    {% if post.categories == page.categories %}
 
-<div>
-    <p style="text-align:center; font-size:30px;" itemprop="name headline">{{ page.title | escape }}
-	</p>
+<ul>
+<h3>       
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      
+      <span class="post-meta">
 
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      {% if post.last_modified_at %}
+      (Updated: <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%b %-d, %Y" }}</time>)
+      {% endif %}
+  
+</span>
+
+</h3>
+</ul>
+
+    {% endif %}
+  {% endfor %}
 </div>
-
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-      {% if page.last_modified_at %}
-      (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-      {% endif %}
-      {% if page.author %}
-      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}
-    </p>
-    
-  </header>
-
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-    
-  </div>
-
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>
 
 
 <div>
 
-		{%- include cd.html -%}
-
+	{%- include cd.html -%}
 </div>
-
-

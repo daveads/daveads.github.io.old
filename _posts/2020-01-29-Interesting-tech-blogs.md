@@ -2,8 +2,9 @@
 layout: post
 title: 'Tech blogs i find interesting'
 date: 2020-01-29
-categories: General
+categories: [General]
 permalink: 'writing/tech-blogs-i-find-interesting'
+tags: blogs
 ---
 
 

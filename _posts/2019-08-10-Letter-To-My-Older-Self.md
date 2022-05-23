@@ -2,7 +2,7 @@
 layout: post
 title: 'Letter to my Older self'
 date: 2019-08-10
-categories: [Personal]
+categories: [Self]
 permalink: 'writing/letter-to-my-older-self'
 ---
 

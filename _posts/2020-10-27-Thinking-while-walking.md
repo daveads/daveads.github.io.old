@@ -2,7 +2,7 @@
 layout: post
 title: 'How thinking while walking helps in fixing bugs'
 date: 2020-10-27
-categories: Personal
+categories: Self
 permalink: 'writing/how-thinking-while-walking-helps-in-fixing-bugs'
 ---
 
