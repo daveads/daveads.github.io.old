@@ -56,6 +56,15 @@ highlighter: rouge
 kramdown:
   input: GFM
   
+
+# Archives
+jekyll-archives:
+  enabled: [year]
+  layout: archive
+  permalinks:
+    year: '/archives/year/:year/'
+
+
   
 #defaults:  
  
