@@ -3,7 +3,6 @@ layout: post
 title: 'Lost someone close recently'
 date: 2020-11-06
 categories: [Self]
-permalink: 'writing/lost-someone-close-recently'
 ---
 
 

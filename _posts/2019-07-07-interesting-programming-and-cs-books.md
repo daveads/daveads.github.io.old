@@ -3,7 +3,6 @@ layout: post
 title: 'Interesting programming and cs books'
 date: 2019-07-07
 categories: [Books]
-permalink: 'writing/interesting-programming-and-cs-books'
 last_modified_at: 2020-10-25
 ---
 

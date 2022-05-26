@@ -3,7 +3,6 @@ layout: post
 title: 'The Linux Command line interface(0)'
 date: 2020-04-25
 categories: [General]
-permalink: 'writing/the-linux-command-line-interface'
 last_modified_at: 2021-01-10
 tags: linux
 ---

@@ -4,7 +4,6 @@ title: 'Knowledge worker'
 date: 2020-10-25
 lang: en
 categories: [General]
-permalink: 'writing/knowledge-worker'
 tags: working 
 ---
 

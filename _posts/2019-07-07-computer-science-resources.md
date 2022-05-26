@@ -2,7 +2,6 @@
 layout: post
 title: 'Computer Science resources -curious'
 date: 07-07-2019
-permalink: 'writing/computer-science-resources'
 categories: [CS]
 last_modified_at: 2020-01-21
 tags: hot

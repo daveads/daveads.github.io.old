@@ -4,7 +4,6 @@ title: 'Indentation in Python'
 date: 2020-01-17
 categories: [Langs]
 tags: [hot]
-permalink: 'writing/indentation-in-python'
 ---
 
 ## what is indentation:

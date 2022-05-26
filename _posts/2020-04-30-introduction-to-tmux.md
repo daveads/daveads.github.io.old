@@ -3,7 +3,6 @@ layout: post
 title: 'A quick introduction to tmux(0)'
 date: 2020-04-30
 categories: [General]
-permalink: 'writing/a-quick-introduction-to-tmux'
 tags: linux tools
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: 'New resolution'
 date: 2020-03-01
 categories: [Self]
-permalink: 'writing/new-resolution'
 tags: personal
 ---
 
