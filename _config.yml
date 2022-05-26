@@ -65,7 +65,9 @@ jekyll-archives:
     year: '/archives/year/:year/'
 
 
-  
+permalink: '/writing/:title/'
+post_dirs: false
+
 #defaults:  
  
 exclude:
