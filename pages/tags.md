@@ -5,13 +5,20 @@ permalink: /tags
 ---
 
 
-{% for tag in site.tags %} 
+
 
 <!-- {{ tag.tag-name }} -->
 
-<ul>
-<h3><li><a href="{{ tag.url }}">{{ tag.title }}</a></li></h3>
-</ul>
+<div>
 
-{% endfor %} 
+ <ul>
+ 
+    {% for tag in site.tags %} 
+   
+	<li class="tagsC-layout" ><a href="{{ tag.url }}">{{ tag.title }}</a></li>
+	
+    {% endfor %} 	
+   
+ </ul>
 
+</div>

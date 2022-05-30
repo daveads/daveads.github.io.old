@@ -5,13 +5,18 @@ permalink: /categories
 ---
 
 
-{% for cate in site.categories %} 
+<div id="">
 
-<!-- {{ tag.tag-name }} -->
-<ul>
-<h3><li><a href="{{ cate.url | downcase }}">{{ cate.title }}</a></li></h3>
-</ul>
+   <ul>
+	{% for cate in site.categories %} 
+	
+	<!-- {{ tag.tag-name }} -->
+
+	<li  class="tagsC-layout"><a href="{{ cate.url | downcase }}">{{ cate.title }}</a></li>
 
 
-{% endfor %} 
+	{% endfor %} 
 
+    </ul>
+    
+</div>
