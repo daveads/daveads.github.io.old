@@ -17,6 +17,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-archives
   - jekyll-admin
+  - jekyll-seo-tag
+
+
+
 
 url: https://daveads.github.io 
 
@@ -69,7 +73,16 @@ permalink: '/writing/:title/'
 post_dirs: false
 
 #defaults:  
- 
+
+jekyll_compose:
+  default_front_matter:
+    posts:
+      layout: post
+      title:
+      date:
+      categories:
+      tags:
+
 exclude:
    - .sass-cache/
    - .jekyll-cache/

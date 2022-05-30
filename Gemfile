@@ -21,6 +21,12 @@ group :jekyll_plugins do
   gem "jekyll-admin"
   gem 'jekyll-redirect-from'
   gem 'jekyll-watch'
+  gem 'jekyll_picture_tag', '~> 2.0'
+  gem "jekyll-sitemap"
+  gem 'jekyll-archives'
+  gem "rouge"
+  gem "kramdown", ">= 2.3.0"
+  gem "jekyll-compose"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -32,8 +38,3 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-
-gem "jekyll-sitemap"
-gem 'jekyll-archives'
-gem "kramdown", ">= 2.3.0"
-gem "rouge"
