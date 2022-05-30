@@ -34,7 +34,8 @@ As earlier said a Unix shell or shell is a command-line interpreter but also a p
 
 **[Computer terminal](https://en.wikipedia.org/wiki/Computer_terminal):**<br>
 
-{% picture jpt-webp /assets/images/terminal.png %}
+
+![termainal](/assets/images/terminal.png)
 
 Before really going into what the **Terminal emulator** actually is, it important to know where it all started decades ago Computer's had no GUI for accessing or modifying data, the computer terminal was the only means of entering data display and printing of data then the terminal were actualy physical computing devices examples usIBM 3270, VT100 and many others hardware terminals. check out [computer terminal >> wiki](https://en.wikipedia.org/wiki/Computer_terminal) for more details. 
 
