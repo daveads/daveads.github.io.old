@@ -2,7 +2,7 @@
 layout: post
 title: 'Indentation in Python'
 date: 2020-01-17
-categories: [Langs]
+categories: [Languages]
 tags: [python]
 ---
 
