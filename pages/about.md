@@ -22,6 +22,6 @@ Mostly -
 
 **Others:**
 * [Contacts](/contacts)
-* [Notes](https://daveas.github.io/notes/) IF interested in a raw format of what am reading or doing...
+* [Notes](https://daveads.github.io/notes/) IF interested in a raw format of what am reading or doing...
 * [Todo](/todo.html)
 * [Rss Feed](/feed.xml)
