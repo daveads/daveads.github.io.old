@@ -24,10 +24,10 @@ a:link {
     padding-bottom: 10px;
     padding-right: 10px;
     padding-left: 10px;
-	background-color: black;
-	font-size: 110%;
-	font-weight: bold;
-	color: #cccccc;
+    background-color: black;
+    font-size: 110%;
+    font-weight: bold;
+    color: #cccccc;
 }
 
 
@@ -40,14 +40,14 @@ a:link {
 
 .inputT{
 
-    position: relative;
+    /** position: relative; **/
     display: flex;
     min-width: 100px;
 
 }
 
   
-  
+/** 
 .clear-icon {
     position: absolute;
     top: 11px;
@@ -56,7 +56,9 @@ a:link {
     cursor: pointer;
     background-color: white;
   }
-  
+**/
+
+ 
 #search-input {
 	
     border: 1px solid grey;
