@@ -176,16 +176,12 @@ Sometimes you want to generate assembly from a host language. Common use cases i
 
 ### SystemV ABI
 
-This is mostly a reminder for myself because I can never remember the order of registers. Sourced from the [AMD64 ABI Draft 1.0](https://raw.githubusercontent.com/wiki/hjl-tools/x86-psABI/x86-64-psABI-1.0.pdf) (PDF).
-
-
 This is a sort of grab-bag for helpful or interesting tools for programming language implementation.
 
 *   [Blinkenlights](https://justine.lol/blinkenlights/index.html), a visual x86-64 emulator
 *   [Cosmopolitan libc](https://justine.lol/cosmopolitan/index.html)
 *   [Cosmopolitan ftrace](https://justine.lol/ftrace/)
 
-(wow, this is turning into a Justine Section)
 
 Game Boy Emulators
 ------------------
@@ -254,6 +250,7 @@ Communities
 
 
 ### Assembly language
+
 picking up assembly is something i would like to do ASAP.
 
 [PC Assembly Language programming](https://pacman128.github.io/pcasm/)
