@@ -2,7 +2,7 @@
 layout: post
 title: 'Two mind blowing articles i read today'
 date: 2020-10-27
-categories: Startups
+categories: Startup
 ---
 
 **Articles on Startups and Success**

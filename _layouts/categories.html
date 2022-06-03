@@ -3,14 +3,6 @@ layout: default
 ---
 
 
-<div>
-
-<!--- print out the tags based of categoreis -->
-</div>
-
-
-
-
 <div class="">
   <h1 class="">{{ page.categories }} categories </h1>
    
@@ -36,3 +28,12 @@ layout: default
     {% endif %}
   {% endfor %}
 </div>
+
+
+
+									#Checking
+
+     {% for post in site.categories[page.categories] %}
+		  <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+  {% endfor %}
+

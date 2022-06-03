@@ -2,7 +2,7 @@
 layout: post
 title: 'Programming language resources'
 date: 2022-05-31
-categories : [lessons, beginner]
+categories: [Language]
 tags: resources compiler operating-system assembly emulator
 ---
 

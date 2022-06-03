@@ -1,4 +1,4 @@
 ---
 layout: categories
-categories: Languages
+categories: Language
 ---
