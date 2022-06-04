@@ -22,9 +22,9 @@
  
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
+    {% include gtag.html %}
   {%- endif -%}
-  
+
   <!-- Google discover -->
   <link rel="alternate" type="application/rss+xml" href="https://feeds.feedburner.com/blogspot/amDG" /> 
   <!-- ends -->
