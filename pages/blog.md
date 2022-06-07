@@ -14,7 +14,7 @@ permalink: /blog
 
 <div class="inputT">
 	
-	<input type="text" id="search-input" class="search" placeholder="Search blog posts..">
+	<input type="text" id="search" class="search" autocomplete="off" placeholder="Search blog posts..">
 	
 	<!-- <img class="clear-icon" src="assets/images/clear.png"> -->
 
@@ -22,9 +22,9 @@ permalink: /blog
 
 
 <br>
-<div class="result-container">
+<div class="search-results">
 	
-	<ul id="search-result" ></ul>
+	<ul id="search-result" class="search-results__items"></ul>
 
 </div>
 
@@ -72,7 +72,7 @@ permalink: /blog
 <script>
 
 SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
+  searchInput: document.getElementById('search'),
   resultsContainer: document.getElementById('search-result'),
   json: '/search.json',
   searchResultTemplate: '<li class="Scontain"><a href="{{ site.url }}{url}">{title}</a>  <time datetime="{date}" class="time">{date}</time> </li>'
@@ -81,7 +81,7 @@ SimpleJekyllSearch({
 /**
 function removePosts(){
 	
-	var inputV = document.getElementById("search-input").value;
+	var inputV = document.getElementById("search").value;
 	
 	if (inputV == ""){
 	
