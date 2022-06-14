@@ -23,3 +23,6 @@ bundle exec jekyll serve --watch
 ./start
 
 ```
+
+## Now using zola ssg
+[New-repo](https://github.com/Daveads/daveads.github.io)
